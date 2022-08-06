@@ -9,12 +9,12 @@ Cơ sở thực tiễn VN hthành TTHCM:
         hậu về ctrị, ktế kém, đời sống nd ngày càng đi xuống, liên tục
         xảy ra c' ptrào đtr ° nd bởi:
 
-\+ NN có chính sách bế quan toả cảng, hạn chế tiếp xúc v bên ngoài.
+        - NN có chính sách bế quan toả cảng, hạn chế tiếp xúc v bên ngoài.
 
-\+ Đề cao TT tôn quân, nặng nề về thi cử, vh, lễ nghi, chịu ảnh hưởng
+        - Đề cao TT tôn quân, nặng nề về thi cử, vh, lễ nghi, chịu ảnh hưởng
 Nho giáo.
 
-\+ NN ko coi trọng lao động chân tay.
+        - NN ko coi trọng lao động chân tay.
 
 -   Từ năm 1858, đế quốc P' bắt đầu tiến hành xâm lược VN, triều đình
     nhà Nguyễn dần trở thành tay sai ° tdP
@@ -22,11 +22,11 @@ Nho giáo.
 -   Từ năm 1858 đến cuối thể kỉ XIX, c' ptrào đtr y nc chống P' lần lượt
     nổ ra:
 
-\+ Ở miền Nam: Khởi nghĩa Trương Định, Nguyễn Trung Trực,\...
+        - Ở miền Nam: Khởi nghĩa Trương Định, Nguyễn Trung Trực,\...
 
-\+ Ở miền Trung: Khởi nghĩa Trần Tấn, Đặng Như Mai,\...
+        - Ở miền Trung: Khởi nghĩa Trần Tấn, Đặng Như Mai,\...
 
-\+ Ở miền Bắc: Khởi nghĩa Hoàng Hoa Thám, Nguyễn Thiện Thuật,\...
+        - Ở miền Bắc: Khởi nghĩa Hoàng Hoa Thám, Nguyễn Thiện Thuật,\...
 
 C' cuộc khởi nghĩa đều thất bại ⇒ Nd VN có 1 lòng y nc nồng nàn nh gc pk
 & hệ y nc ° nó đã suy tàn, bất lực trc nv gpdt
@@ -38,17 +38,17 @@ C' cuộc khởi nghĩa đều thất bại ⇒ Nd VN có 1 lòng y nc nồng n�
 -   Xuất hiện gc công nhân, gc tư sản & tầng lớp tiểu tư sản thành thị.
     Từ đó xuất hiện thêm c' mâu thuẫn mới:
 
-\+ Mâu thuẫn giữa gc công nhân & gc tư sản.
+        - Mâu thuẫn giữa gc công nhân & gc tư sản.
 
-\+ Mâu thuẫn giữa toàn thể nd VN v tdP.
+        - Mâu thuẫn giữa toàn thể nd VN v tdP.
 
 -   Xuất hiện c' ptrào y nc theo khuynh hướng dchủ tư sản:
 
-\+ Ptrào Đông Du (1905-1909) do Phan Bội Châu khởi xướng.
+        - Ptrào Đông Du (1905-1909) do Phan Bội Châu khởi xướng.
 
-\+ Ptrào Duy Tân (1906-1908) do Phan Châu Trinh khởi xướng.
+        - Ptrào Duy Tân (1906-1908) do Phan Châu Trinh khởi xướng.
 
-\+ Ptrào Đông Kinh Nghĩa Thục (3/1907-11/1907) do Lương Văn Can, Nguyễn
+        - Ptrào Đông Kinh Nghĩa Thục (3/1907-11/1907) do Lương Văn Can, Nguyễn
 Q\` phát động.
 
 C' ptrào theo khuynh hướng dchủ tư sản đều thất bại. Thực tiễn đặt ra
@@ -183,25 +183,25 @@ Ptích qđiểm: "Cm gpdt muốn tlợi p đi theo c.đg cm VS".
 
     -   Hàng loạt cuộc đtr nổ ra nh đều thất bại:
 
-\+ C' cuộc khởi nghĩa pk: Khởi nghĩa Yên Thế, Ptrào Cần Vương, \...
+        - C' cuộc khởi nghĩa pk: Khởi nghĩa Yên Thế, Ptrào Cần Vương, \...
 
-\+ C' ptrào đtr mang khuynh hướng dchủ tư sản: Ptrào Đông Du, Ptrào Duy
+        - C' ptrào đtr mang khuynh hướng dchủ tư sản: Ptrào Đông Du, Ptrào Duy
 Tân,\...
 
 -   Từ c' thất bại trên, HCM rút ra đc n\~ bài học từ n\~ ng đi trc:
 
-\+ C' cuộc khởi nghĩa theo hình thức pk thất bại do họ ko đủ LL, chiến
+        - C' cuộc khởi nghĩa theo hình thức pk thất bại do họ ko đủ LL, chiến
 lược,\... khi đối đầu v 1 nc đế quốc thực dân như P'.
 
-\+ Ptrào y nc đầu thế kỷ XX do c' sĩ phu Nho học tiến bộ khởi xướng. Họ
+        - Ptrào y nc đầu thế kỷ XX do c' sĩ phu Nho học tiến bộ khởi xướng. Họ
 tiếp thu ảnh hưởng TT tư sản từ bên ngoài v 1 nhãn quan ctrị bị hạn chế,
 thiếu hệ thống & thiếu chính xác.
 
-\+ Cơ sở xh ° trào lưu TT dchủ tư sản ở nc ta còn yếu ớt (gc tư sản còn
+        - Cơ sở xh ° trào lưu TT dchủ tư sản ở nc ta còn yếu ớt (gc tư sản còn
 yếu cả về thế & lực), chưa đủ sm tạo thành 1 cuộc cm xh từ bên tr, theo
 đúng nghĩa ° nó.
 
-\+ C' ptrào thiếu sự lđạo, chỉ đạo t'nhất, chưa đc tổ chức 1 c' chặt
+        - C' ptrào thiếu sự lđạo, chỉ đạo t'nhất, chưa đc tổ chức 1 c' chặt
 chẽ, chưa có mục đích & hướng đi rõ ràng.
 
 -   Vượt qua tầm nhìn ° c' tiền bối, HCM có chí hướng muốn tìm kiếm c.đg
@@ -306,16 +306,16 @@ Ptích qđiểm: \"Cm gpdt cần đc tiến hành chủ động, stạo\"
 
     -   Tlợi ° cm thuộc địa phụ thuộc vào tlợi ° cm VS ở chính quốc.
 
-\+ Nd VN chỉ có thể phụ thuộc vào sự tlợi ° gc VS ở P'. Điều này, theo
+        - Nd VN chỉ có thể phụ thuộc vào sự tlợi ° gc VS ở P'. Điều này, theo
 HCM là hoàn toàn bất hợp lý.
 
 -   Cm thuộc địa chỉ có thể giành tlợi khi gc VS ở chính quốc thành
     công.
 
-\+ HCM cho rằng: qđiểm này ko đánh giá đúng tính chủ động, stạo ° cm ở
+        - HCM cho rằng: qđiểm này ko đánh giá đúng tính chủ động, stạo ° cm ở
 c' nc thuộc địa.
 
-\+ Qtế cộng sản ko đánh giá đúng đc vtrò ° nd c' nc thuộc địa cx như cm
+        - Qtế cộng sản ko đánh giá đúng đc vtrò ° nd c' nc thuộc địa cx như cm
 ở thuộc địa.
 
 -   HCM nhận thấy đc vị trí, vtrò, tầm qtr ° c' nc thuộc địa đv CN đế
@@ -438,14 +438,14 @@ Qđiểm ° HCM: "Cm gpdt p đc tiến hành = c.đg cm bạo lực":
     -   Theo HCM, đánh giá đúng bản chất cực kì phản động ° bọn đế quốc
         & tay sai, Ng đã vạch rõ tính tất yếu ° bạo lực cm:
 
-\+ Sự thống trị cuả thực dân đế quốc ở thuộc địa vô cùng hà khắc, ko hề
+        - Sự thống trị cuả thực dân đế quốc ở thuộc địa vô cùng hà khắc, ko hề
 có 1 chút q\` tự do dchủ nào, ko có cơ sở nào cho thực hành đtr ko bạo
 lực.
 
-\+ \"Chế độ thực dân, tự bản thân nó, đã là 1 hành động bạo lực ° kẻ
+        - \"Chế độ thực dân, tự bản thân nó, đã là 1 hành động bạo lực ° kẻ
 mạnh đv kẻ yếu rồi".
 
-\+ Sau khi xâm chiếm c' nc thuộc địa, bọn thực dân đế quốc đã thực hiện
+        - Sau khi xâm chiếm c' nc thuộc địa, bọn thực dân đế quốc đã thực hiện
 chế độ cai trị vô cùng tàn bạo: dùng bạo lực để đàn áp dã man c' ptrào y
 nc, thủ tiêu ∀ q\` tự do, dchủ ° nd, bóc lột & đẩy ng dân thuộc địa vào
 bước đường cùng.
@@ -795,20 +795,20 @@ diện:
 -   NN VN Dchủ Cộng hòa theo qđiểm HCM là NN mang bản chất gc công nhân,
     thể hiện ở:
 
-\+ ĐCSVN giữ vị trí & vtrò cầm q\` đn.
+        - ĐCSVN giữ vị trí & vtrò cầm q\` đn.
 
-\+ NN ta định hướng XHCN tr sn xd & pt đn.
+        - NN ta định hướng XHCN tr sn xd & pt đn.
 
-\+ NN ta tổ chức & hđ theo ngtắc t.trung dchủ .
+        - NN ta tổ chức & hđ theo ngtắc t.trung dchủ .
 
 -   Bản chất gc công nhân t'nhất v tính nd & tính dt:
 
-\+ NN VN ra đời là kq ° cuộc đtr lâu dài, gian khó ° rất n\` thế hệ ng
+        - NN VN ra đời là kq ° cuộc đtr lâu dài, gian khó ° rất n\` thế hệ ng
 VN đi trc.
 
-\+ NN VN vì lợi ích ° nd, lấy q\` lợi ° nd làm nền tảng.
+        - NN VN vì lợi ích ° nd, lấy q\` lợi ° nd làm nền tảng.
 
-\+ Tr thực tế, NN mới ở VN đã & đang đảm đương nv mà toàn thể dt giao
+        - Tr thực tế, NN mới ở VN đã & đang đảm đương nv mà toàn thể dt giao
 phó.
 
 -   NN ° nd: Tất cả ∀ q\` lực tr NN & tr xh đều thụôc về nd, nd thực thi
@@ -822,14 +822,14 @@ phó.
         chế q\` lực mà họ lập nên. Theo HCM, tr hình thức dchủ gián
         tiếp:
 
-\+ *Q\` lực NN là q\` thừa ủy ° nd*. Tự bản thân NN ko có q\` lực. Q\`
+        - *Q\` lực NN là q\` thừa ủy ° nd*. Tự bản thân NN ko có q\` lực. Q\`
 lực ° NN là do nd ủy thác cho.
 
-\+ *Nd có q\` kiểm soát, pb\` NN, có q\` bãi miễn n\~ đại biểu mà họ đã
+        - *Nd có q\` kiểm soát, pb\` NN, có q\` bãi miễn n\~ đại biểu mà họ đã
 lựa chọn, bầu ra & có q\` giải tán n\~ thiết chế q\` lực mà họ đã lập
 nên*.
 
-\+ *Luật P' dchủ là công cụ q\` lực ° nd*.
+        - *Luật P' dchủ là công cụ q\` lực ° nd*.
 
 -   NN do nd:
 
@@ -940,15 +940,15 @@ C' tiêu cực thường có tr NN:
 
 -   Tham ô, lãng phí, quan liêu:
 
-\+ "Tham ô là hành động xấu xa nhất, tội lỗi đê hèn nhất tr xh. Nó làm
+        - "Tham ô là hành động xấu xa nhất, tội lỗi đê hèn nhất tr xh. Nó làm
 hại đến sn xd nc nhà, hại đến công việc cải thiện đời sống nd, hại đến
 đđ cm ° ng cán bộ\..."
 
-\+ Lãng phí theo HCM xác định là lãng phí thời gian, sức lao động, tiền
+        - Lãng phí theo HCM xác định là lãng phí thời gian, sức lao động, tiền
 °. Lãng phí là căn bệnh mà HCM lên án gay gắt, chính bản thân ng luôn
 làm gương, tích cực thực hành chống lãng phí.
 
-\+ Quan liêu là bệnh gốc, tiếp tay cho bệnh tham ô, lãng phí. HCM phê
+        - Quan liêu là bệnh gốc, tiếp tay cho bệnh tham ô, lãng phí. HCM phê
 phán n\~ cq tổ chức ko sát công việc thực tế, ko theo dõi & gd cán bộ,
 ko gần gũi qchúng.
 
@@ -1021,9 +1021,9 @@ TTHCM về vtrò ° đại đkết dt tr sn cm:
 -   Từ thực tiễn xd khối đại đkết dt, HCM đã khái quát thành n\` luận
     điểm mang tính chân lý về vtrò & sm ° khối đại đkết dt:
 
-\+ \"Đkết là sm ° cta\"
+        - \"Đkết là sm ° cta\"
 
-\+ \"Đkết là 1 LL vô địch ° cta để khắc phục khó khăn, giành lấy tlợi\"
+        - \"Đkết là 1 LL vô địch ° cta để khắc phục khó khăn, giành lấy tlợi\"
 
 ⇒ Ng đã đi đến kết luận: \"Đkết, đkết, đại đkết/ /Thành công, thành
 công, đại thành công\".
@@ -1217,13 +1217,13 @@ Qđiểm ° HCM về vh - HCM có 4 cách tiếp cận chủ yếu về vh:
 
     -   Vh là mtiêu
 
-\+ Vh nằm tr mtiêu chung ° toàn bộ tiến trình cm cùng v ctrị, ktế, xh.
+        - Vh nằm tr mtiêu chung ° toàn bộ tiến trình cm cùng v ctrị, ktế, xh.
 
-\+ Theo qđiểm ° HCM, vh là mtiêu - nhìn 1 cách tổng quát - là q\` sống,
+        - Theo qđiểm ° HCM, vh là mtiêu - nhìn 1 cách tổng quát - là q\` sống,
 q\` sung sướng, q\` tự do, q\` mưu cầu hạnh phúc; là khát vọng ° nd về
 n\~ gt chân, thiện, mỹ.
 
-\+ Đó là 1 xh dchủ- dân là chủ & dân làm chủ - công =, văn minh, ai cx
+        - Đó là 1 xh dchủ- dân là chủ & dân làm chủ - công =, văn minh, ai cx
 có cơm ăn áo mặc, ai cx đc học hành; 1 xh mà đời sống vật chất & t.thần
 ° nd luôn đc quan tâm & ko ngừng nâng cao, c.ng có đk pt toàn diện.
 
@@ -1232,21 +1232,21 @@ có cơm ăn áo mặc, ai cx đc học hành; 1 xh mà đời sống vật ch�
     động lực cộng đồng & cá nhân; nội lực & ngoại lực. Tiếp cận theo
     TTHCM, động lực có thể nhận thức theo c' phương diện sau:
 
-\+ Vh ctrị là 1 tr n\~ động lực có nghĩa soi đường cho quốc dân đi, lđạo
+        - Vh ctrị là 1 tr n\~ động lực có nghĩa soi đường cho quốc dân đi, lđạo
 quốc dân giành độc lập, tự cường, tự chủ.
 
-\+ Vh văn nghệ góp phần nâng cao lòng y nc, lý tưởng, tình cảm cm, sự
+        - Vh văn nghệ góp phần nâng cao lòng y nc, lý tưởng, tình cảm cm, sự
 lạc quan, ý chí, quyết tâm & niềm tin vào tlợi cuối cùng ° cm.
 
 • Vh gd diệt giặc dốt, xóa mù chữ, giúp c.ng hiểu biết q luật pt ° xh.
 Vh gd đào tạo c.ng mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sn
 cm.
 
-\+ Vh đđ, lối sống nâng cao phẩm giá, phong cách lành mạnh cho c.ng,
+        - Vh đđ, lối sống nâng cao phẩm giá, phong cách lành mạnh cho c.ng,
 hướng c.ng đến c' gt chân, thiện, mĩ. Vh đđ là 1 động lực lớn thúc đẩy
 cho cm pt.
 
-\+ Vh P' luật đảm bảo dchủ, trật tự, kỉ cương, phép nc.
+        - Vh P' luật đảm bảo dchủ, trật tự, kỉ cương, phép nc.
 
 -   Vh là 1 mặt trận:
 

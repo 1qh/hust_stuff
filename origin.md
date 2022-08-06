@@ -11,13 +11,13 @@ Cơ sở thực tiễn Việt Nam hình thành tư tưởng Hồ Chí Minh:
         nhân dân ngày càng đi xuống, liên tục xảy ra các phong trào
         đấu tranh của nhân dân bởi:
 
-\+ Nhà nước có chính sách bế quan toả cảng, hạn chế tiếp xúc với bên
+        - Nhà nước có chính sách bế quan toả cảng, hạn chế tiếp xúc với bên
 ngoài.
 
-\+ Đề cao tư tưởng tôn quân, nặng nề về thi cử, văn hoá, lễ nghi, chịu
+        - Đề cao tư tưởng tôn quân, nặng nề về thi cử, văn hoá, lễ nghi, chịu
 ảnh hưởng Nho giáo.
 
-\+ Nhà nước không coi trọng lao động chân tay.
+        - Nhà nước không coi trọng lao động chân tay.
 
 -   Từ năm 1858, đế quốc Pháp bắt đầu tiến hành xâm lược Việt Nam, triều
     đình nhà Nguyễn dần trở thành tay sai của thực dân Pháp
@@ -25,11 +25,11 @@ ngoài.
 -   Từ năm 1858 đến cuối thể kỉ XIX, các phong trào đấu tranh yêu nước
     chống Pháp lần lượt nổ ra:
 
-\+ Ở miền Nam: Khởi nghĩa Trương Định, Nguyễn Trung Trực,\...
+        - Ở miền Nam: Khởi nghĩa Trương Định, Nguyễn Trung Trực,\...
 
-\+ Ở miền Trung: Khởi nghĩa Trần Tấn, Đặng Như Mai,\...
+        - Ở miền Trung: Khởi nghĩa Trần Tấn, Đặng Như Mai,\...
 
-\+ Ở miền Bắc: Khởi nghĩa Hoàng Hoa Thám, Nguyễn Thiện Thuật,\...
+        - Ở miền Bắc: Khởi nghĩa Hoàng Hoa Thám, Nguyễn Thiện Thuật,\...
 
 Các cuộc khởi nghĩa đều thất bại ⇒ Nhân dân Việt Nam có một lòng yêu
 nước nồng nàn nhưng giai cấp phong kiến và hệ yêu nước của nó đã suy
@@ -43,20 +43,20 @@ tàn, bất lực trước nhiệm vụ giải phóng dân tộc
 -   Xuất hiện giai cấp công nhân, giai cấp tư sản và tầng lớp tiểu tư
     sản thành thị. Từ đó xuất hiện thêm các mâu thuẫn mới:
 
-\+ Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản.
+        - Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản.
 
-\+ Mâu thuẫn giữa toàn thể nhân dân Việt Nam với thực dân Pháp.
+        - Mâu thuẫn giữa toàn thể nhân dân Việt Nam với thực dân Pháp.
 
 -   Xuất hiện các phong trào yêu nước theo khuynh hướng dân chủ tư sản:
 
-\+ Phong trào Đông Du(1905-1909) do Phan Bội Châu khởi xướng.
+        - Phong trào Đông Du(1905-1909) do Phan Bội Châu khởi xướng.
 
-\+ Phong trào Duy Tân(1906-1908) do Phan Châu Trinh khởi xướng.
+        - Phong trào Duy Tân(1906-1908) do Phan Châu Trinh khởi xướng.
 
-\+ Phong trào Đông Kinh Nghĩa Thục(3/1907-11/1907) do Lương Văn Can,
+        - Phong trào Đông Kinh Nghĩa Thục(3/1907-11/1907) do Lương Văn Can,
 Nguyễn Quyền phát động.
 
-\+ \...
+        - \...
 
 Các phong trào theo khuynh hướng dân chủ tư sản đều thất bại. Thực
 tiễn đặt ra câu hỏi: \"Cứu nước bằng con đường nào để có thể đi đến
@@ -234,28 +234,28 @@ Phân tích quan điểm: "Cách mạng giải phóng dân tộc muốn thắng 
 
     -   Hàng loạt cuộc đấu tranh nổ ra nhưng đều thất bại:
 
-\+ Các cuộc khởi nghĩa phong kiến: Khởi nghĩa Yên Thế, Phong trào Cần
+        - Các cuộc khởi nghĩa phong kiến: Khởi nghĩa Yên Thế, Phong trào Cần
 Vương, \...
 
-\+ Các phong trào đấu tranh mang khuynh hướng dân chủ tư sản: Phong
+        - Các phong trào đấu tranh mang khuynh hướng dân chủ tư sản: Phong
 trào Đông Du, Phong trào Duy Tân,\...
 
 -   Từ các thất bại trên, Hồ Chí Minh rút ra được những bài học từ những
     người đi trước:
 
-\+ Các cuộc khởi nghĩa theo hình thức phong kiến thất bại do họ không
+        - Các cuộc khởi nghĩa theo hình thức phong kiến thất bại do họ không
 đủ lực lượng, chiến lược,\... khi đối đầu với một nước đế quốc thực
 dân như Pháp.
 
-\+ Phong trào yêu nước đầu thế kỷ XX do các sĩ phu Nho học tiến bộ
+        - Phong trào yêu nước đầu thế kỷ XX do các sĩ phu Nho học tiến bộ
 khởi xướng. Họ tiếp thu ảnh hưởng tư tưởng tư sản từ bên ngoài với một
 nhãn quan chính trị bị hạn chế, thiếu hệ thống và thiếu chính xác.
 
-\+ Cơ sở xã hội của trào lưu tư tưởng dân chủ tư sản ở nước ta còn yếu
+        - Cơ sở xã hội của trào lưu tư tưởng dân chủ tư sản ở nước ta còn yếu
 ớt (giai cấp tư sản còn yếu cả về thế và lực), chưa đủ sức mạnh tạo
 thành một cuộc cách mạng xã hội từ bên trong, theo đúng nghĩa của nó.
 
-\+ Các phong trào thiếu sự lãnh đạo, chỉ đạo thống nhất, chưa được tổ
+        - Các phong trào thiếu sự lãnh đạo, chỉ đạo thống nhất, chưa được tổ
 chức một các chặt chẽ, chưa có mục đích và hướng đi rõ ràng.
 
 -   Vượt qua tầm nhìn của các tiền bối, Hồ Chí Minh có chí hướng muốn
@@ -385,16 +385,16 @@ chủ động, sáng tạo\"
     -   Thắng lợi của cách mạng thuộc địa phụ thuộc vào thắng lợi của
         cách mạng vô sản ở chính quốc.
 
-\+ Nhân dân Việt Nam chỉ có thể phụ thuộc vào sự thắng lợi của giai
+        - Nhân dân Việt Nam chỉ có thể phụ thuộc vào sự thắng lợi của giai
 cấp vô sản ở Pháp. Điều này, theo Hồ Chí Minh là hoàn toàn bất hợp lý.
 
 -   Cách mạng thuộc địa chỉ có thể giành thắng lợi khi giai cấp vô sản ở
     chính quốc thành công.
 
-\+ Hồ Chí Minh cho rằng: quan điểm này không đánh giá đúng tính chủ
+        - Hồ Chí Minh cho rằng: quan điểm này không đánh giá đúng tính chủ
 động, sáng tạo của cách mạng ở các nước thuộc địa.
 
-\+ Quốc tế cộng sản không đánh giá đúng được vai trò của nhân dân các
+        - Quốc tế cộng sản không đánh giá đúng được vai trò của nhân dân các
 nước thuộc địa cũng như cách mạng ở thuộc địa.
 
 -   Hồ Chí Minh nhận thấy được vị trí, vai trò, tầm quan trọng của các
@@ -542,14 +542,14 @@ tiến hành bằng con đường cách mạng bạo lực":
         bọn đế quốc và tay sai, Người đã vạch rõ tính tất yếu của bạo
         lực cách mạng:
 
-\+ Sự thống trị cuả thực dân đế quốc ở thuộc địa vô cùng hà khắc,
+        - Sự thống trị cuả thực dân đế quốc ở thuộc địa vô cùng hà khắc,
 không hề có một chút quyền tự do dân chủ nào, không có cơ sở nào cho
 thực hành đấu tranh không bạo lực.
 
-\+ \"Chế độ thực dân, tự bản thân nó, đã là một hành động bạo lực của
+        - \"Chế độ thực dân, tự bản thân nó, đã là một hành động bạo lực của
 kẻ mạnh đối với kẻ yếu rồi".
 
-\+ Sau khi xâm chiếm các nước thuộc địa, bọn thực dân đế quốc đã thực
+        - Sau khi xâm chiếm các nước thuộc địa, bọn thực dân đế quốc đã thực
 hiện chế độ cai trị vô cùng tàn bạo: dùng bạo lực để đàn áp dã man các
 phong trào yêu nước, thủ tiêu mọi quyền tự do, dân chủ của nhân dân,
 bóc lột và đẩy người dân thuộc địa vào bước đường cùng.
@@ -947,24 +947,24 @@ trên 4 phương diện:
 -   Nhà nước Việt Nam Dân chủ Cộng hòa theo quan điểm Hồ Chí Minh là nhà
     nước mang bản chất gia cấp công nhân, thể hiện ở:
 
-\+ Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền đất nước.
+        - Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền đất nước.
 
-\+ Nhà nước ta định hướng xã hội chủ nghĩa trong sự nghiệp xây dựng và
+        - Nhà nước ta định hướng xã hội chủ nghĩa trong sự nghiệp xây dựng và
 phát triển đất nước.
 
-\+ Nhà nước ta tổ chức và hoạt động theo nguyên tắc tập trung dân chủ
+        - Nhà nước ta tổ chức và hoạt động theo nguyên tắc tập trung dân chủ
 .
 
 -   Bản chất giai cấp công nhân thống nhất với tính nhân dân và tính dân
     tộc:
 
-\+ Nhà nước Việt Nam ra đời là kết quả của cuộc đấu tranh lâu dài,
+        - Nhà nước Việt Nam ra đời là kết quả của cuộc đấu tranh lâu dài,
 gian khó của rất nhiều thế hệ người Việt Nam đi trước.
 
-\+ Nhà nước Việt Nam vì lợi ích của nhân dân, lấy quyền lợi của nhân
+        - Nhà nước Việt Nam vì lợi ích của nhân dân, lấy quyền lợi của nhân
 dân làm nền tảng.
 
-\+ Trong thực tế, Nhà nước mới ở Việt Nam đã và đang đảm đương nhiệm
+        - Trong thực tế, Nhà nước mới ở Việt Nam đã và đang đảm đương nhiệm
 vụ mà toàn thể dân tộc giao phó.
 
 -   Nhà nước của nhân dân: Tất cả mọi quyền lực trong nhà nước và trong
@@ -980,15 +980,15 @@ vụ mà toàn thể dân tộc giao phó.
         bầu ra và những thiết chế quyền lực mà họ lập nên. Theo Hồ Chí
         Minh, trong hình thức dân chủ gián tiếp:
 
-\+ *Quyền lực nhà nước là quyền thừa ủy của nhân dân*. Tự bản thân nhà
+        - *Quyền lực nhà nước là quyền thừa ủy của nhân dân*. Tự bản thân nhà
 nước không có quyền lực. Quyền lực của nhà nước là do nhân dân ủy thác
 cho.
 
-\+ *Nhân dân có quyền kiểm soát, phê bình nhà nước, có quyền bãi miễn
+        - *Nhân dân có quyền kiểm soát, phê bình nhà nước, có quyền bãi miễn
 những đại biểu mà họ đã lựa chọn, bầu ra và có quyền giải tán những
 thiết chế quyền lực mà họ đã lập nên*.
 
-\+ *Luật pháp dân chủ là công cụ quyền lực của nhân dân*.
+        - *Luật pháp dân chủ là công cụ quyền lực của nhân dân*.
 
 -   Nhà nước do nhân dân:
 
@@ -1117,17 +1117,17 @@ Các tiêu cực thường có trong nhà nước:
 
 -   Tham ô, lãng phí, quan liêu:
 
-\+ " Tham ô là hành động xấu xa nhất, tội lỗi đê hèn nhất trong xã
+        - " Tham ô là hành động xấu xa nhất, tội lỗi đê hèn nhất trong xã
 hội. Nó làm hại đến sự nghiệp xây dựng nước nhà, hại đến công việc cải
 thiện đời sống nhân dân, hại đến đạo đức cách mạng của người cán
 bộ\..."
 
-\+ Lãng phí theo Hồ Chí Minh xác định là lãng phí thời gian, sức lao
+        - Lãng phí theo Hồ Chí Minh xác định là lãng phí thời gian, sức lao
 động, tiền của. Lãng phí là căn bệnh mà Hồ Chí Minh lên án gay gắt,
 chính bản thân người luôn làm gương, tích cực thực hành chống lãng
 phí.
 
-\+ Quan liêu là bệnh gốc, tiếp tay cho bệnh tham ô, lãng phí. Hồ Chí
+        - Quan liêu là bệnh gốc, tiếp tay cho bệnh tham ô, lãng phí. Hồ Chí
 Minh phê phán những cơ quan tổ chức không sát công việc thực tế, không
 theo dõi và giáo dục cán bộ, không gần gũi quần chúng.
 
@@ -1208,9 +1208,9 @@ nghiệp cách mạng:
     quát thành nhiều luận điểm mang tính chân lý về vai trò và sức
     mạnh của khối đại đoàn kết dân tộc:
 
-\+ \"Đoàn kết là sức mạnh của chúng ta\"
+        - \"Đoàn kết là sức mạnh của chúng ta\"
 
-\+ \"Đoàn kết là một lực lượng vô địch của chúng ta để khắc phục khó
+        - \"Đoàn kết là một lực lượng vô địch của chúng ta để khắc phục khó
 khăn, giành lấy thắng lợi\"
 
 ⇒ Người đã đi đến kết luận: \"Đoàn kết, đoàn kết, đại đoàn kết/ /Thành
@@ -1441,15 +1441,15 @@ cận chủ yếu về văn hóa:
 
     -   Văn hóa là mục tiêu
 
-\+ Văn hóa nằm trong mục tiêu chung của toàn bộ tiến trình cách mạng
+        - Văn hóa nằm trong mục tiêu chung của toàn bộ tiến trình cách mạng
 cùng với chính trị, kinh tế, xã hội.
 
-\+ Theo quan điểm của Hồ Chí Minh, văn hóa là mục tiêu - nhìn một cách
+        - Theo quan điểm của Hồ Chí Minh, văn hóa là mục tiêu - nhìn một cách
 tổng quát - là quyền sống, quyền sung sướng, quyền tự do, quyền mưu
 cầu hạnh phúc; là khát vọng của nhân dân về những giá trị chân, thiện,
 mỹ.
 
-\+ Đó là một xã hội dân chủ- dân là chủ và dân làm chủ - công bằng,
+        - Đó là một xã hội dân chủ- dân là chủ và dân làm chủ - công bằng,
 văn minh, ai cũng có cơm ăn áo mặc, ai cũng được học hành; một xã hội
 mà đời sống vật chất và tinh thần của nhân dân luôn được quan tâm và
 không ngừng nâng cao, con người có điều kiện phát triển toàn diện.
@@ -1460,10 +1460,10 @@ không ngừng nâng cao, con người có điều kiện phát triển toàn di
     và cá nhân; nội lực và ngoại lực. Tiếp cận theo tư tưởng Hồ Chí
     Minh, động lực có thể nhận thức theo các phương diện sau:
 
-\+ Văn hóa chính trị là môt trong những động lực có nghĩa soi đường
+        - Văn hóa chính trị là môt trong những động lực có nghĩa soi đường
 cho quốc dân đi, lãnh đạo quốc dân giành độc lập, tự cường, tự chủ.
 
-\+ Văn hóa văn nghệ góp phần nâng cao lòng yêu nước, lý tưởng, tình
+        - Văn hóa văn nghệ góp phần nâng cao lòng yêu nước, lý tưởng, tình
 cảm cách mạng, sự lạc quan, ý chí, quyết tâm và niềm tin vào thắng lợi
 cuối cùng của cách mạng.
 
@@ -1472,11 +1472,11 @@ quy luật phát triển của xã hội. Văn hóa giáo dục đào tạo con 
 mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sự nghiệp cách
 mạng.
 
-\+ Văn hóa đạo đức, lối sống nâng cao phẩm giá, phong cách lành mạnh
+        - Văn hóa đạo đức, lối sống nâng cao phẩm giá, phong cách lành mạnh
 cho con người, hướng con người đến các giá trị chân, thiện, mĩ. Văn
 hóa đạo đức là một động lực lớn thúc đẩy cho cách mạng phát triển.
 
-\+ Văn hóa pháp luật đảm bảo dân chủ, trật tự, kỉ cương, phép nước.
+        - Văn hóa pháp luật đảm bảo dân chủ, trật tự, kỉ cương, phép nước.
 
 -   Văn hóa là một mặt trận:
 
