@@ -1,6 +1,4 @@
-Câu 1: Phân tích cơ sở thực tiễn Việt Nam hình thành Tư tưởng Hồ Chí
-Minh? Giá trị Tư tưởng Hồ Chí Minh đối với sự nghiệp đổi mới ở Việt Nam
-hiện nay.
+## Câu 1: Phân tích cơ sở thực tiễn Việt Nam hình thành Tư tưởng Hồ Chí Minh? Giá trị Tư tưởng Hồ Chí Minh đối với sự nghiệp đổi mới ở Việt Nam hiện nay.
 
 Cơ sở thực tiễn Việt Nam hình thành tư tưởng Hồ Chí Minh:
 
@@ -11,18 +9,16 @@ Cơ sở thực tiễn Việt Nam hình thành tư tưởng Hồ Chí Minh:
         nhân dân ngày càng đi xuống, liên tục xảy ra các phong trào
         đấu tranh của nhân dân bởi:
 
-        - Nhà nước có chính sách bế quan toả cảng, hạn chế tiếp xúc với bên
-ngoài.
+        - Nhà nước có chính sách bế quan toả cảng, hạn chế tiếp xúc với bên ngoài.
 
-        - Đề cao tư tưởng tôn quân, nặng nề về thi cử, văn hoá, lễ nghi, chịu
-ảnh hưởng Nho giáo.
+        - Đề cao tư tưởng tôn quân, nặng nề về thi cử, văn hoá, lễ nghi, chịu ảnh hưởng Nho giáo.
 
         - Nhà nước không coi trọng lao động chân tay.
 
--   Từ năm 1858, đế quốc Pháp bắt đầu tiến hành xâm lược Việt Nam, triều
+    -   Từ năm 1858, đế quốc Pháp bắt đầu tiến hành xâm lược Việt Nam, triều
     đình nhà Nguyễn dần trở thành tay sai của thực dân Pháp
 
--   Từ năm 1858 đến cuối thể kỉ XIX, các phong trào đấu tranh yêu nước
+    -   Từ năm 1858 đến cuối thể kỉ XIX, các phong trào đấu tranh yêu nước
     chống Pháp lần lượt nổ ra:
 
         - Ở miền Nam: Khởi nghĩa Trương Định, Nguyễn Trung Trực,\...
@@ -30,39 +26,37 @@ ngoài.
         - Ở miền Trung: Khởi nghĩa Trần Tấn, Đặng Như Mai,\...
 
         - Ở miền Bắc: Khởi nghĩa Hoàng Hoa Thám, Nguyễn Thiện Thuật,\...
+    Các cuộc khởi nghĩa đều thất bại ⇒ Nhân dân Việt Nam có một lòng yêu
+    nước nồng nàn nhưng giai cấp phong kiến và hệ yêu nước của nó đã suy
+    tàn, bất lực trước nhiệm vụ giải phóng dân tộc
 
-Các cuộc khởi nghĩa đều thất bại ⇒ Nhân dân Việt Nam có một lòng yêu
-nước nồng nàn nhưng giai cấp phong kiến và hệ yêu nước của nó đã suy
-tàn, bất lực trước nhiệm vụ giải phóng dân tộc
-
--   Sau khi hoàn thành căn bản bình định Việt Nam, Pháp bắt tay vào khai
+    -   Sau khi hoàn thành căn bản bình định Việt Nam, Pháp bắt tay vào khai
     thác thuộc địa và biến nước ta thành một nước thuộc địa nửa phong
     kiến dẫn tới việc có sự thay đổi về cơ cấu giai cấp, tầng lớp
     trong xã hội.
 
--   Xuất hiện giai cấp công nhân, giai cấp tư sản và tầng lớp tiểu tư
+    -   Xuất hiện giai cấp công nhân, giai cấp tư sản và tầng lớp tiểu tư
     sản thành thị. Từ đó xuất hiện thêm các mâu thuẫn mới:
 
         - Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản.
 
         - Mâu thuẫn giữa toàn thể nhân dân Việt Nam với thực dân Pháp.
 
--   Xuất hiện các phong trào yêu nước theo khuynh hướng dân chủ tư sản:
+    -   Xuất hiện các phong trào yêu nước theo khuynh hướng dân chủ tư sản:
 
         - Phong trào Đông Du(1905-1909) do Phan Bội Châu khởi xướng.
 
         - Phong trào Duy Tân(1906-1908) do Phan Châu Trinh khởi xướng.
 
-        - Phong trào Đông Kinh Nghĩa Thục(3/1907-11/1907) do Lương Văn Can,
-Nguyễn Quyền phát động.
+        - Phong trào Đông Kinh Nghĩa Thục(3/1907-11/1907) do Lương Văn Can, Nguyễn Quyền phát động.
 
         - \...
 
-Các phong trào theo khuynh hướng dân chủ tư sản đều thất bại. Thực
-tiễn đặt ra câu hỏi: \"Cứu nước bằng con đường nào để có thể đi đến
-thắng lợi?\"
+    Các phong trào theo khuynh hướng dân chủ tư sản đều thất bại. Thực
+    tiễn đặt ra câu hỏi: \"Cứu nước bằng con đường nào để có thể đi đến
+    thắng lợi?\"
 
--   Sự ra đời giai cấp công nhân và phong trào đấu tranh của giai cấp
+    -   Sự ra đời giai cấp công nhân và phong trào đấu tranh của giai cấp
     công nhân đã làm cho cuộc đấu tranh giải phóng dân tộc ở Việt Nam
     xuất hiện dấy hiệu mới của thời đại mới.
 
@@ -116,9 +110,7 @@ nay:
     đắn, khắc phục hạn chế còn tồn tại, từng bước đưa đất nước phát
     triển mạnh mẽ và bền vững về mọi mặt.
 
-Câu 2: Phân tích cơ sở lý luận: Giá trị truyền thống của dân tộc Việt
-Nam hình thành Tư tưởng Hồ Chí Minh. Vai trò của việc giáo dục giá trị
-truyền thống dân tộc đối với sinh viên hiện nay?
+## Câu 2: Phân tích cơ sở lý luận: Giá trị truyền thống của dân tộc Việt Nam hình thành Tư tưởng Hồ Chí Minh. Vai trò của việc giáo dục giá trị truyền thống dân tộc đối với sinh viên hiện nay?
 
 Giá trị truyền thống của dân tộc Việt Nam hình thành tư tưởng Hồ Chí
 Minh: Lịch sử dựng nước và giữ nước mấy ngàn năm bất khuất của dân tộc
@@ -197,9 +189,7 @@ giai đoạn hiện nay:
 
     -   Phong trào cốc trà đá vì cộng đồng.
 
-Câu 4: Phân tích quan điểm của Hồ Chí Minh: "Cách mạng giải phóng dân
-tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản". Giá trị của
-quan điểm đó với cách mạng Việt Nam?
+## Câu 4: Phân tích quan điểm của Hồ Chí Minh: "Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản". Giá trị của quan điểm đó với cách mạng Việt Nam?
 
 Từ khi thực dân Pháp tiến hành xâm lược và đặt ách thống trị nước ta,
 vấn đề sống còn của dân tộc được đặt ra là phải giải phóng dân tộc khỏi
@@ -240,8 +230,8 @@ Vương, \...
         - Các phong trào đấu tranh mang khuynh hướng dân chủ tư sản: Phong
 trào Đông Du, Phong trào Duy Tân,\...
 
--   Từ các thất bại trên, Hồ Chí Minh rút ra được những bài học từ những
-    người đi trước:
+    -   Từ các thất bại trên, Hồ Chí Minh rút ra được những bài học từ những
+        người đi trước:
 
         - Các cuộc khởi nghĩa theo hình thức phong kiến thất bại do họ không
 đủ lực lượng, chiến lược,\... khi đối đầu với một nước đế quốc thực
@@ -269,16 +259,16 @@ chức một các chặt chẽ, chưa có mục đích và hướng đi rõ ràn
     hòng thoát khỏi vòng áp lực\". Cách mạng tư sản là cách mạng chưa
     triệt để bởi vì:
 
--   Cách mạng tư sản chỉ giải phóng dân tộc, không giải phóng nhân dân
-    lao động, giai cấp vô sản.
+    -   Cách mạng tư sản chỉ giải phóng dân tộc, không giải phóng nhân dân
+        lao động, giai cấp vô sản.
 
--   Cách mạng tư sản sau khi giành được thắng lợi thì giai cấp tư sản
-    quay ngược lại đàn áp giai cấp vô sản.
+    -   Cách mạng tư sản sau khi giành được thắng lợi thì giai cấp tư sản
+        quay ngược lại đàn áp giai cấp vô sản.
 
--   Cách mạng tư sản chỉ mang lại lợi ích cho giai cấp tư sản.
+    -   Cách mạng tư sản chỉ mang lại lợi ích cho giai cấp tư sản.
 
--   Cách mạng tư sản mặc dù thành công nhưng sau khi lên nắm quyền thì
-    các nước tư sản vẫn bóc lột và đàn áp các dân tộc thuộc địa.
+    -   Cách mạng tư sản mặc dù thành công nhưng sau khi lên nắm quyền thì
+        các nước tư sản vẫn bóc lột và đàn áp các dân tộc thuộc địa.
 
 -   Năm 1917, cách mạng tháng 10 Nga thắng lợi đã ảnh hưởng sâu sắc đến
     việc lựa chọn con đường cứu nước, giải phóng dân tộc của Hồ Chí
@@ -350,10 +340,7 @@ chức một các chặt chẽ, chưa có mục đích và hướng đi rõ ràn
         đường mà chủ tịch Hồ Chí Minh đã lựa chọn, điều này được khẳng
         định trong văn kiện của Đảng.
 
-Câu 5: Phân tích quan điểm của Hồ Chí Minh: "Cách mạng giải phóng dân
-tộc cần được tiến hành chủ động, sáng tạo và có khả năng giành thắng lợi
-trước cách mạng vô sản ở chính quốc". Ý nghĩa của quan điểm đó với cách
-mạng Việt Nam?
+## Câu 5: Phân tích quan điểm của Hồ Chí Minh: "Cách mạng giải phóng dân tộc cần được tiến hành chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc". Ý nghĩa của quan điểm đó với cách mạng Việt Nam?
 
 Các luận điểm của chủ tịch Hồ Chí Minh về cách mạng giải phóng dân
 tộc:
@@ -388,8 +375,8 @@ chủ động, sáng tạo\"
         - Nhân dân Việt Nam chỉ có thể phụ thuộc vào sự thắng lợi của giai
 cấp vô sản ở Pháp. Điều này, theo Hồ Chí Minh là hoàn toàn bất hợp lý.
 
--   Cách mạng thuộc địa chỉ có thể giành thắng lợi khi giai cấp vô sản ở
-    chính quốc thành công.
+    -   Cách mạng thuộc địa chỉ có thể giành thắng lợi khi giai cấp vô sản ở
+        chính quốc thành công.
 
         - Hồ Chí Minh cho rằng: quan điểm này không đánh giá đúng tính chủ
 động, sáng tạo của cách mạng ở các nước thuộc địa.
@@ -493,9 +480,7 @@ vô sản ở chính quốc".
     -   Nhân dân Việt Nam sáng tạo trong quá trình phòng chống dịch
         bệnh: Cây ATM gạo, robot diệt khuẩn,\...
 
-Câu 6: Phân tích quan điểm của Hồ Chí Minh: "Cách mạng giải phóng dân
-tộc phải được tiến hành bằng con đường cách mạng bạo lực". Giá trị của
-quan điểm đó với cách mạng Việt Nam?
+## Câu 6: Phân tích quan điểm của Hồ Chí Minh: "Cách mạng giải phóng dân tộc phải được tiến hành bằng con đường cách mạng bạo lực". Giá trị của quan điểm đó với cách mạng Việt Nam?
 
 Các luận điểm của chủ tịch Hồ Chí Minh về cách mạng giải phóng dân
 tộc:
@@ -523,14 +508,14 @@ tiến hành bằng con đường cách mạng bạo lực":
 
 -   Khái niệm bạo lực cách mạng:
 
--   Theo nghĩa thông thường: Dùng sức mạnh để cưỡng bức, đàn áp, buộc
-    đối phương phải khuất phục nếu không thì quật ngã, tiêu diệt.
+    -   Theo nghĩa thông thường: Dùng sức mạnh để cưỡng bức, đàn áp, buộc
+        đối phương phải khuất phục nếu không thì quật ngã, tiêu diệt.
 
--   Bạo lực cách mạng là một phạm trù dùng để chỉ một phương pháp giành
-    chính quyền của quần chúng. Việc dùng bạo lực cách mạng là cần
-    thiết và tất yếu trong mọi cuộc cách mạng của quần chúng, nhằm lật
-    đổ một chế độ chính trị lỗi thời và phản động, thiết lập nên một
-    chế độ chính trị tiên tiến và cách mạng.
+    -   Bạo lực cách mạng là một phạm trù dùng để chỉ một phương pháp giành
+        chính quyền của quần chúng. Việc dùng bạo lực cách mạng là cần
+        thiết và tất yếu trong mọi cuộc cách mạng của quần chúng, nhằm lật
+        đổ một chế độ chính trị lỗi thời và phản động, thiết lập nên một
+        chế độ chính trị tiên tiến và cách mạng.
 
 -   Tính tất yếu của bạo lực cách mạng:
 
@@ -658,9 +643,7 @@ Giá trị của quan điểm đối với cách mạng Việt Nam:
     có thể giải quyết nữa thì chúng ta mới sử dụng con đường đấu tranh
     vũ trang, quân sự.
 
-Câu 7: Phân tích quan điểm Hồ Chí Minh về các nguyên tắc "Tập trung dân
-chủ"; "Tập thể lãnh đạo, cá nhân phụ trách". Các giải pháp phát huy vai
-trò lãnh đạo của Đảng trong giai đoạn hiện nay?
+## Câu 7: Phân tích quan điểm Hồ Chí Minh về các nguyên tắc "Tập trung dân chủ"; "Tập thể lãnh đạo, cá nhân phụ trách". Các giải pháp phát huy vai trò lãnh đạo của Đảng trong giai đoạn hiện nay?
 
 Tập trung dân chủ:
 
@@ -690,25 +673,25 @@ Tập trung dân chủ:
 -   Tập trung và dân chủ có mối quan hệ biện chứng và liên quan mật
     thiết với nhau.
 
--   Tập trung là nền tảng của dân chủ, dân chủ phải đi đến tập trung.
-    Phải tránh dân chủ theo kiểu tùy tiện, phân tán, vô tổ chức, dân
-    chủ hình thức.
+    -   Tập trung là nền tảng của dân chủ, dân chủ phải đi đến tập trung.
+        Phải tránh dân chủ theo kiểu tùy tiện, phân tán, vô tổ chức, dân
+        chủ hình thức.
 
--   Tập trung trên cơ sở phát huy dân chủ chứ không phải tập trung quan
-    liêu, độc đoán, chuyên quyền.
+    -   Tập trung trên cơ sở phát huy dân chủ chứ không phải tập trung quan
+        liêu, độc đoán, chuyên quyền.
 
--   Tập trung trên cơ sở dân chủ, và dân chủ phải hướng đến tập trung.
-    Chẳng hạn khi đứng trước một vấn đề của tập thể, mọi thành viên
-    tập trung bàn bạc, mỗi người có một quan điểm nhưng phải đi đến
-    thống nhất. Tập trung trên cơ sở dân chủ ở đây là mỗi người đều có
-    quyền đưa ra ý kiến, nhưng cuối cùng phải biểu quyết để đi đến
-    thống nhất, phục tùng đa số, đấy là dân chủ hướng đến tập trung.
+    -   Tập trung trên cơ sở dân chủ, và dân chủ phải hướng đến tập trung.
+        Chẳng hạn khi đứng trước một vấn đề của tập thể, mọi thành viên
+        tập trung bàn bạc, mỗi người có một quan điểm nhưng phải đi đến
+        thống nhất. Tập trung trên cơ sở dân chủ ở đây là mỗi người đều có
+        quyền đưa ra ý kiến, nhưng cuối cùng phải biểu quyết để đi đến
+        thống nhất, phục tùng đa số, đấy là dân chủ hướng đến tập trung.
 
--   Hồ Chí Minh nhấn mạnh rằng, phải làm cho tất cả mọi Đảng viên bày tỏ
-    hết ý kiến của mình trong Đảng, tức là khơi dậy tinh thần trách
-    nhiệm và tính tích cực chủ động của tất cả đảng viện. Khi đã thảo
-    luận bày tỏ ý kiến rồi thì đi đến tập trung, tức là đề cập đến ý
-    chí thống nhất, hành động thống nhất, như thế mới có sức mạnh.
+    -   Hồ Chí Minh nhấn mạnh rằng, phải làm cho tất cả mọi Đảng viên bày tỏ
+        hết ý kiến của mình trong Đảng, tức là khơi dậy tinh thần trách
+        nhiệm và tính tích cực chủ động của tất cả đảng viện. Khi đã thảo
+        luận bày tỏ ý kiến rồi thì đi đến tập trung, tức là đề cập đến ý
+        chí thống nhất, hành động thống nhất, như thế mới có sức mạnh.
 
 Tập thể lãnh đạo cá nhân phụ trách:
 
@@ -760,18 +743,19 @@ Quan hệ giữa tập thể lãnh đạo, cá nhân phụ trách và tập trun
     là dân chủ tập trung."
 
 -   Hồ Chí Minh khẳng định: "Tập thể lãnh đạo và cá nhân phụ trách cần
-    phải luôn luôn đi đôi với nhau Thực trạng hiện nay của Đảng và nhà
-    nước Việt Nam:
+    phải luôn luôn đi đôi với nhau
+    
+Thực trạng hiện nay của Đảng và nhà nước Việt Nam:
 
 -   Văn kiện Đại hội XI của Đảng đã chỉ rõ: "Một bộ phận không nhỏ cán
     bộ đảng viên, kể cả cán bộ chủ chốt các cấp, yếu kém cả về phẩm
     chất và năng lực; thiếu tính chiến đấu và tinh thần bảo vệ quan
     điểm, đường lối chính sách của Đảng,\..."
 
-Trong thời gian qua, tuyệt đại đa số các tổ chức đảng trong toàn Đảng
-thực hiện tốt nguyên tắc tập trung dân chủ. Tuy nhiên, một số cấp ủy,
-tổ chức đảng và cán bộ chủ trì bị xử lí kỷ luật, trong đó nguyên nhân
-chủ yếu là vi phạm nguyên tắc tập trung dân chủ.
+-   Trong thời gian qua, tuyệt đại đa số các tổ chức đảng trong toàn Đảng
+    thực hiện tốt nguyên tắc tập trung dân chủ. Tuy nhiên, một số cấp ủy,
+    tổ chức đảng và cán bộ chủ trì bị xử lí kỷ luật, trong đó nguyên nhân
+    chủ yếu là vi phạm nguyên tắc tập trung dân chủ.
 
 -   Trong Đảng có một bộ phận giảm sút ý chí chiến đấu, phai nhạt lý
     tưởng, dao động mất lòng tin; một số cán bộ, đảng viên sa vào chủ
@@ -823,9 +807,7 @@ nay:
 -   Thực hiện tốt về công tác cản bộ, chú ý đến đời sống vật chất của
     cán bộ Đảng viện.
 
-Câu 8: Phân tích quan điểm Hồ Chí Minh về các nguyên tắc "Tự phê bình và
-phê bình"; "Kỷ luật nghiêm minh và tự giác". Vận dụng các nguyên tắc
-trên vào xây dựng Đảng trong sạch, vững mạnh hiện nay?
+## Câu 8: Phân tích quan điểm Hồ Chí Minh về các nguyên tắc "Tự phê bình và phê bình"; "Kỷ luật nghiêm minh và tự giác". Vận dụng các nguyên tắc trên vào xây dựng Đảng trong sạch, vững mạnh hiện nay?
 
 Tự phê bình và phê bình:
 
@@ -923,9 +905,7 @@ hiện nay:
     lao động; công khai hoá các chế độ chính sách, quản lý tài chính
     và tài sản công\...
 
-Câu 9: Phân tích quan điểm Hồ Chí Minh về xây dựng nhà nước dân chủ. Các
-giải pháp xây dựng nhà nước Việt Nam ngang tầm nhiệm vụ cách mạng hiện
-nay?
+## Câu 9: Phân tích quan điểm Hồ Chí Minh về xây dựng nhà nước dân chủ. Các giải pháp xây dựng nhà nước Việt Nam ngang tầm nhiệm vụ cách mạng hiện nay?
 
 Quan điểm của Hồ Chí Minh về dân chủ:
 
@@ -933,7 +913,7 @@ Quan điểm của Hồ Chí Minh về dân chủ:
 
 -   Dân làm chủ: xác định năng lực và trách nhiệm của nhân dân.
 
-Dân chủ: xác định rằng quyền lực nhà nước thuộc về nhân dân.
+-   Dân chủ: xác định rằng quyền lực nhà nước thuộc về nhân dân.
 
 -   Theo chủ tịch Hồ Chí Minh, dân chủ là quý báu nhất của dân tộc.
     Người khẳng định: \"Nước ta là nước dân chủ, địa vị cao nhất là
@@ -944,8 +924,8 @@ trên 4 phương diện:
 
 -   Bản chất giai cấp công nhân của nhà nước:
 
--   Nhà nước Việt Nam Dân chủ Cộng hòa theo quan điểm Hồ Chí Minh là nhà
-    nước mang bản chất gia cấp công nhân, thể hiện ở:
+    -   Nhà nước Việt Nam Dân chủ Cộng hòa theo quan điểm Hồ Chí Minh là nhà
+        nước mang bản chất gia cấp công nhân, thể hiện ở:
 
         - Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền đất nước.
 
@@ -953,10 +933,9 @@ trên 4 phương diện:
 phát triển đất nước.
 
         - Nhà nước ta tổ chức và hoạt động theo nguyên tắc tập trung dân chủ
-.
 
--   Bản chất giai cấp công nhân thống nhất với tính nhân dân và tính dân
-    tộc:
+    -   Bản chất giai cấp công nhân thống nhất với tính nhân dân và tính dân
+        tộc:
 
         - Nhà nước Việt Nam ra đời là kết quả của cuộc đấu tranh lâu dài,
 gian khó của rất nhiều thế hệ người Việt Nam đi trước.
@@ -1056,9 +1035,7 @@ Các giải pháp xây dựng nhà nước Việt Nam:
 -   Cải cách bộ máy hành chính nhằm phục vụ cho quyền làm chủ của nhân
     dân.
 
-Câu 10: Phân tích quan điểm của Hồ Chí Minh về xây dựng Nhà nước trong
-sạch, vững mạnh. Để xây dựng Nhà nước Việt Nam thật sự trong sạch, hoạt
-động có hiệu quả chúng ta cần phải làm gì?
+## Câu 10: Phân tích quan điểm của Hồ Chí Minh về xây dựng Nhà nước trong sạch, vững mạnh. Để xây dựng Nhà nước Việt Nam thật sự trong sạch, hoạt động có hiệu quả chúng ta cần phải làm gì?
 
 Kiểm soát quyền lực của nhà nước: Để giữ vững bản chất của nhà nước
 bảo đảm cho nhà nước hoạt động có hiệu quả phòng chống thoái hóa biến
@@ -1107,15 +1084,15 @@ quyền lực nhà nước.
 
 Phòng chống tiêu cực trong nhà nước:
 
-Các tiêu cực thường có trong nhà nước:
+- Các tiêu cực thường có trong nhà nước:
 
--   Đặc quyền đặc lợi: Xây dựng Nhà nước trong sạch, vững mạnh đòi hỏi
-    phải tẩy trừ những thói cậy mình là người trong cơ quan chính
-    quyền để cửa quyền, hách dịch với dân, lạm quyền, đồng thời để vơ
-    vét tiền của, lợi dụng chức quyền để làm lợi cho cá nhân mình, làm
-    như thế tức sa vào chủ nghĩa cá nhân.
+    -   Đặc quyền đặc lợi: Xây dựng Nhà nước trong sạch, vững mạnh đòi hỏi
+        phải tẩy trừ những thói cậy mình là người trong cơ quan chính
+        quyền để cửa quyền, hách dịch với dân, lạm quyền, đồng thời để vơ
+        vét tiền của, lợi dụng chức quyền để làm lợi cho cá nhân mình, làm
+        như thế tức sa vào chủ nghĩa cá nhân.
 
--   Tham ô, lãng phí, quan liêu:
+    -   Tham ô, lãng phí, quan liêu:
 
         - " Tham ô là hành động xấu xa nhất, tội lỗi đê hèn nhất trong xã
 hội. Nó làm hại đến sự nghiệp xây dựng nước nhà, hại đến công việc cải
@@ -1180,9 +1157,7 @@ chúng ta cần:
     thần của các cán bộ đảng viên, xử lý nghiêm minh các trường hợp
     tham ô, lộng quyền.
 
-Câu 11: Phân tích tư tưởng Hồ Chí Minh về vai trò đại đoàn kết dân tộc
-trong sự nghiệp cách mạng? Vai trò của sinh viên trong việc xây dựng
-khối đại đoàn kết dân tộc ở Việt Nam hiện nay?
+## Câu 11: Phân tích tư tưởng Hồ Chí Minh về vai trò đại đoàn kết dân tộc trong sự nghiệp cách mạng? Vai trò của sinh viên trong việc xây dựng khối đại đoàn kết dân tộc ở Việt Nam hiện nay?
 
 Tư tưởng Hồ Chí Minh về vai trò của đại đoàn kết dân tộc trong sự
 nghiệp cách mạng:
@@ -1190,23 +1165,23 @@ nghiệp cách mạng:
 -   Đai đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược, quyết định
     thành công của cách mạng.
 
--   Đại đoàn kết dân tộc là chiến lược tập hợp mọi lực lượng nhằm hình
-    thành và phát triển sức mạnh to lớn của toàn dân trong cách mạng.
+    -   Đại đoàn kết dân tộc là chiến lược tập hợp mọi lực lượng nhằm hình
+        thành và phát triển sức mạnh to lớn của toàn dân trong cách mạng.
 
--   Trong tư tưởng Hồ Chí Minh, đại đoàn kết đân tộc không phải là sách
-    lược hay thủ đoạn chính trị mà chính là chiến lược lâu dài, nhất
-    quán của cách mạng Việt Nam. Đây chính là vấn đề mang tính sống
-    còn của dân tộc Việt Nam nên chiến lược được duy trì cả trong cách
-    mạng dân tộc dân chủ nhân dân và cách mạng xã hội chủ nghĩa.
+    -   Trong tư tưởng Hồ Chí Minh, đại đoàn kết đân tộc không phải là sách
+        lược hay thủ đoạn chính trị mà chính là chiến lược lâu dài, nhất
+        quán của cách mạng Việt Nam. Đây chính là vấn đề mang tính sống
+        còn của dân tộc Việt Nam nên chiến lược được duy trì cả trong cách
+        mạng dân tộc dân chủ nhân dân và cách mạng xã hội chủ nghĩa.
 
--   Hồ Chí Minh khẳng định: Trong thời đại mới, cách mạng muốn thành
-    công phải xây dựng được khối đại đoàn kết dân tộc. Do đó, tư tưởng
-    đại đoàn kết dân tộc là một tư tưởng cơ bản, nhất quán và xuyên
-    suốt tiến trình cách mạng Việt Nam.
+    -   Hồ Chí Minh khẳng định: Trong thời đại mới, cách mạng muốn thành
+        công phải xây dựng được khối đại đoàn kết dân tộc. Do đó, tư tưởng
+        đại đoàn kết dân tộc là một tư tưởng cơ bản, nhất quán và xuyên
+        suốt tiến trình cách mạng Việt Nam.
 
--   Từ thực tiễn xây dựng khối đại đoàn kết dân tộc, Hồ Chí Minh đã khái
-    quát thành nhiều luận điểm mang tính chân lý về vai trò và sức
-    mạnh của khối đại đoàn kết dân tộc:
+    -   Từ thực tiễn xây dựng khối đại đoàn kết dân tộc, Hồ Chí Minh đã khái
+        quát thành nhiều luận điểm mang tính chân lý về vai trò và sức
+        mạnh của khối đại đoàn kết dân tộc:
 
         - \"Đoàn kết là sức mạnh của chúng ta\"
 
@@ -1278,8 +1253,8 @@ Việt Nam hiện nay:
 -   Sinh viên có vai trò quan trọng trong việc liên kết các bộ phận
     trong khối đai đoàn kết dân tộc.
 
-Sinh viên sẽ là lực lượng chủ chốt trong việc xây dựng khối đại đoàn kết
-trong hiện tại và tương lai.
+-   Sinh viên sẽ là lực lượng chủ chốt trong việc xây dựng khối đại đoàn kết
+    trong hiện tại và tương lai.
 
 Hiểu biết của sinh viên trong việc xây dựng khối đại đoàn kết:
 
@@ -1292,29 +1267,27 @@ Hiểu biết của sinh viên trong việc xây dựng khối đại đoàn k�
     khối đại đoàn kết dân tộc, từ đó họ tích cực tham gia các phong
     trào xây dựng khối đại đoàn kết dân tộc.
 
-Câu 12: Phân tích tư tưởng Hồ Chí Minh về lực lượng của khối đại đoàn
-kết dân tộc? Vận dụng tư tưởng này vào việc tập hợp sức mạnh của nhân
-dân trong việc xây dựng CNXH ở Việt Nam hiện nay?
+## Câu 12: Phân tích tư tưởng Hồ Chí Minh về lực lượng của khối đại đoàn kết dân tộc? Vận dụng tư tưởng này vào việc tập hợp sức mạnh của nhân dân trong việc xây dựng CNXH ở Việt Nam hiện nay?
 
 Tư tưởng Hồ Chí Minh về lực lượng của khối đại đoàn kết dân tộc:
 
 -   Đại đoàn kết dân tộc là đại đoàn kết toàn dân.
 
-\* Vai trò của nhân dân :
+    - Vai trò của nhân dân :
 
--   "trong bầu trời không có gì quý bằng nhân dân. Trong thế giới không
-    gì mạnh bằng lực lượng đoàn kết của nhân dân".
+        -   "trong bầu trời không có gì quý bằng nhân dân. Trong thế giới không
+            gì mạnh bằng lực lượng đoàn kết của nhân dân".
 
--   "dân chúng đồng long, việc gì cũng làm được. dân chúng không ủng hộ,
-    việc gì cũng không làm nên"
+        -   "dân chúng đồng long, việc gì cũng làm được. dân chúng không ủng hộ,
+            việc gì cũng không làm nên"
 
-\* Đại đoàn kết toàn dân là gì?
+    - Đại đoàn kết toàn dân là gì?
 
--   Tập hợp mọi người dân vào một cuộc đấu tranh chung
+        -   Tập hợp mọi người dân vào một cuộc đấu tranh chung
 
--   Xây dựng khối đại đoàn kết toàn dân phải đứng trên lập trường giai
-    cấp công nhân, giải quyết tốt mối quan hệ giữa giai cấp và dân tộc
-    để tập hợp lực lượng.
+        -   Xây dựng khối đại đoàn kết toàn dân phải đứng trên lập trường giai
+            cấp công nhân, giải quyết tốt mối quan hệ giữa giai cấp và dân tộc
+            để tập hợp lực lượng.
 
 -   Chủ thể của khối đại đoàn kết dân tộc:
 
@@ -1406,8 +1379,7 @@ việc xây dựng CNXH ở Việt Nam hiện nay:
     nhân dân và nỗ lực chăm lo lợi ích thiết thực, chính đáng, hợp
     pháp của các giai cấp, các tầng lớp nhân dân.
 
-Câu 13: Phân tích quan điểm của Hồ Chí Minh về vai trò của văn hóa. Liên
-hệ vai trò của văn hóa với sự phát triển bền vững của Việt Nam hiện nay.
+## Câu 13: Phân tích quan điểm của Hồ Chí Minh về vai trò của văn hóa. Liên hệ vai trò của văn hóa với sự phát triển bền vững của Việt Nam hiện nay.
 
 Khái niệm văn hóa:
 
@@ -1434,8 +1406,9 @@ cận chủ yếu về văn hóa:
 -   Tiếp cận theo nghĩa hẹp hơn là bàn đến các trường học, số người đi
     học, xóa nạn mù chữ, biết đọc biết viết.
 
--   Tiếp cận theo \"phương thức sử dụng công cụ sinh hoạt\" Quan điểm
-    của Hồ Chí Minh về vai trò của văn hóa:
+-   Tiếp cận theo \"phương thức sử dụng công cụ sinh hoạt\"
+
+Quan điểm của Hồ Chí Minh về vai trò của văn hóa:
 
 -   Văn hóa là mục tiêu, động lực của sự nghiệp cách mạng
 
@@ -1454,11 +1427,11 @@ văn minh, ai cũng có cơm ăn áo mặc, ai cũng được học hành; một
 mà đời sống vật chất và tinh thần của nhân dân luôn được quan tâm và
 không ngừng nâng cao, con người có điều kiện phát triển toàn diện.
 
--   Văn hóa là động lực: Đông lực là cái thúc đẩy làm cho phát triển, Hồ
-    Chí Minh cho chúng ta một nhìn nhận về động lực phát triển đất
-    nước, bao gồm động lực vật chất và tinh thần; động lực cộng đồng
-    và cá nhân; nội lực và ngoại lực. Tiếp cận theo tư tưởng Hồ Chí
-    Minh, động lực có thể nhận thức theo các phương diện sau:
+    -   Văn hóa là động lực: Đông lực là cái thúc đẩy làm cho phát triển, Hồ
+        Chí Minh cho chúng ta một nhìn nhận về động lực phát triển đất
+        nước, bao gồm động lực vật chất và tinh thần; động lực cộng đồng
+        và cá nhân; nội lực và ngoại lực. Tiếp cận theo tư tưởng Hồ Chí
+        Minh, động lực có thể nhận thức theo các phương diện sau:
 
         - Văn hóa chính trị là môt trong những động lực có nghĩa soi đường
 cho quốc dân đi, lãnh đạo quốc dân giành độc lập, tự cường, tự chủ.
@@ -1467,7 +1440,7 @@ cho quốc dân đi, lãnh đạo quốc dân giành độc lập, tự cường
 cảm cách mạng, sự lạc quan, ý chí, quyết tâm và niềm tin vào thắng lợi
 cuối cùng của cách mạng.
 
-• Văn hóa giáo dục diệt giặc dốt, xóa mù chữ, giúp con người hiểu biết
+        - Văn hóa giáo dục diệt giặc dốt, xóa mù chữ, giúp con người hiểu biết
 quy luật phát triển của xã hội. Văn hóa giáo dục đào tạo con người
 mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sự nghiệp cách
 mạng.
@@ -1480,25 +1453,25 @@ hóa đạo đức là một động lực lớn thúc đẩy cho cách mạng p
 
 -   Văn hóa là một mặt trận:
 
--   Măt trận văn hóa là một lĩnh vực có tính độc lập, có mối quan hệ mật
-    thiết với các lĩnh vực hoạt động có tính độc lập, có mối quan hệ
-    mật thiết với các lĩnh vực khác, đồng thời phản ánh tính chất cam
-    go, quyết liệt của hoạt động văn hóa. Mặt trận văn hóa là cuộc đấu
-    tranh trên lĩnh vực văn hóa - tư tưởng.
+    -   Măt trận văn hóa là một lĩnh vực có tính độc lập, có mối quan hệ mật
+        thiết với các lĩnh vực hoạt động có tính độc lập, có mối quan hệ
+        mật thiết với các lĩnh vực khác, đồng thời phản ánh tính chất cam
+        go, quyết liệt của hoạt động văn hóa. Mặt trận văn hóa là cuộc đấu
+        tranh trên lĩnh vực văn hóa - tư tưởng.
 
--   Nội dung mặt trận văn hóa là phong phú, đấu tranh trên các lĩnh vực
-    tư tưởng, đạo đức, lối sống,.. của hoạt động văn nghệ, báo chí,
-    công tác lý luận, đặc biệt là định hướng giá trị chân, thiện, mĩ
-    của văn hóa nghệ thuật.
+    -   Nội dung mặt trận văn hóa là phong phú, đấu tranh trên các lĩnh vực
+        tư tưởng, đạo đức, lối sống,.. của hoạt động văn nghệ, báo chí,
+        công tác lý luận, đặc biệt là định hướng giá trị chân, thiện, mĩ
+        của văn hóa nghệ thuật.
 
--   Mặt trận văn hóa là cuộc chiến đấu trên lĩnh vực văn hóa, ạnh chị em
-    nghệ sĩ là chiến sĩ trên mặt trận ấy. Để làm tròn nhiệm vụ, chiến
-    sĩ nghệ thuật phải có lập trường tư tưởng vững vàng; ngòi bút là
-    vũ khí sắc bén trong sự nghiệp \"phò chính trừ tà\".
+    -   Mặt trận văn hóa là cuộc chiến đấu trên lĩnh vực văn hóa, ạnh chị em
+        nghệ sĩ là chiến sĩ trên mặt trận ấy. Để làm tròn nhiệm vụ, chiến
+        sĩ nghệ thuật phải có lập trường tư tưởng vững vàng; ngòi bút là
+        vũ khí sắc bén trong sự nghiệp \"phò chính trừ tà\".
 
--   Theo Hồ Chí Minh, dân tộc ta là một dân tộc ạnh hùng, thời đại ta là
-    một thời đại vẻ vang. Vì vậy chiến sĩ văn nghệ phải có những tác
-    phẩm xứng đáng với dân tộc anh hùng và thời đại vẻ vang.
+    -   Theo Hồ Chí Minh, dân tộc ta là một dân tộc ạnh hùng, thời đại ta là
+        một thời đại vẻ vang. Vì vậy chiến sĩ văn nghệ phải có những tác
+        phẩm xứng đáng với dân tộc anh hùng và thời đại vẻ vang.
 
 -   Văn hóa phục vụ quần chúng nhân dân
 
@@ -1548,9 +1521,7 @@ hiện nay
     giúp cho đất nước phát triển, sánh vai với các cường quốc năm
     châu.
 
-Câu 14: Trình bày quan điểm của Hồ Chí Minh về các chuẩn mực đạo đức
-cách mạng. Liên hệ với quá trình xây dựng đạo đức cách mạng theo tấm
-gương Hồ Chí Minh.
+## Câu 14: Trình bày quan điểm của Hồ Chí Minh về các chuẩn mực đạo đức cách mạng. Liên hệ với quá trình xây dựng đạo đức cách mạng theo tấm gương Hồ Chí Minh.
 
 Quan điểm Hồ Chí Minh về các chuẩn mực đạo đức cách mạng:
 
@@ -1574,7 +1545,9 @@ Quan điểm Hồ Chí Minh về các chuẩn mực đạo đức cách mạng:
         quốc, suốt đời phấn đấu cho Đảng, cho cách mạng, phải làm cho
         dân giàu nước mạnh. Hiếu với dân là phải thương dân, tin dân,
         thân dân, học hỏi dân, lấy trí tuệ ở dân, kính trong dân, lấy
-        dân làm gốc,\... -- Cần, kiệm, liêm, chính, chí công vô tư
+        dân làm gốc,\... 
+
+-   Cần, kiệm, liêm, chính, chí công vô tư
 
     -   Hồ Chí Minh chỉ rõ:\"Bọn phong kiến nêu ra cần, kiệm, liêm,
         chính, nhưng không bao giờ làm mà lại bắt nhân dân ta phải
@@ -1619,22 +1592,22 @@ Quan điểm Hồ Chí Minh về các chuẩn mực đạo đức cách mạng:
         nghĩa nhân đạo cộng sản, Hồ Chí Minh đã xác định tình yêu thương
         con người là một trong những phẩm chất đạo đức cao đẹp nhất.
 
-        -   Tình yêu thương là tình cảm nhân ái, sâu sắc, rộng lớn,
-            trước hết là cho những người nghèo khổ, những người bị mất
-            quyền, những người bị áp bức, bị bóc lột, bị phân biệt màu
-            da, dân tộc.
+    -   Tình yêu thương là tình cảm nhân ái, sâu sắc, rộng lớn,
+        trước hết là cho những người nghèo khổ, những người bị mất
+        quyền, những người bị áp bức, bị bóc lột, bị phân biệt màu
+        da, dân tộc.
 
-        -   Tình yêu thương con người, yêu đồng loại, yêu đất nước mình
-            là tư tưởng lớn, là mục tiêu phấn đấu của Hồ Chí Minh, thể
-            hiện rõ sự ham muốn tột bậc của Người là \"làm sao cho
-            nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự
-            do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học
-            hành\".
+    -   Tình yêu thương con người, yêu đồng loại, yêu đất nước mình
+        là tư tưởng lớn, là mục tiêu phấn đấu của Hồ Chí Minh, thể
+        hiện rõ sự ham muốn tột bậc của Người là \"làm sao cho
+        nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự
+        do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học
+        hành\".
 
-        -   Tình yêu thương con người theo Hồ Chí Minh phải được xây
-            dựng trên lập trường của giai cấp công nhân, thể hiện ở
-            các mối quan hệ hằng ngày với bạn bè, đồng chí, anh em,
-            phải được cụ thể một cách thiết thực.
+    -   Tình yêu thương con người theo Hồ Chí Minh phải được xây
+        dựng trên lập trường của giai cấp công nhân, thể hiện ở
+        các mối quan hệ hằng ngày với bạn bè, đồng chí, anh em,
+        phải được cụ thể một cách thiết thực.
 
 -   Tinh thần quốc tế trong sáng
 
@@ -1677,9 +1650,7 @@ Minh:
     tư tưởng đạo đức Hồ Chí Minh, ra sức bồi dưỡng các phẩm chất đạo
     đức, vận dụng các nguyên tắc xây dựng đạo đức mà Người đã nêu ra.
 
-Câu 15: Phân tích quan điểm Hồ Chí Minh về vai trò của con người. Liên
-hệ với vấn đề xây dựng con người trong sự nghiệp đổi mới ở Việt Nam hiện
-nay.
+## Câu 15: Phân tích quan điểm Hồ Chí Minh về vai trò của con người. Liên hệ với vấn đề xây dựng con người trong sự nghiệp đổi mới ở Việt Nam hiện nay.
 
 Quan niệm của Hồ Chí Minh về con người:
 
@@ -1719,9 +1690,7 @@ Quan điểm của Hồ Chí Minh về vai trò của con người:
     động căn bản nhất như lao động sản xuất, đấu tranh chính trị-xã
     hội, sáng tạo ra các giá trị văn hoá.
 
-Câu 3: Nêu các cơ sở lý luận hình thành tư tưởng Hồ Chí Minh. Trong các
-nội dung trên, nội dung nào là quan trọng quyết định bước phát triển về
-chất của tư tưởng Hồ Chí Minh? Tại sao? Không thi.
+## Câu 3: Nêu các cơ sở lý luận hình thành tư tưởng Hồ Chí Minh. Trong các nội dung trên, nội dung nào là quan trọng quyết định bước phát triển về chất của tư tưởng Hồ Chí Minh? Tại sao? Không thi.
 
 Cơ sở lý luận hình thành tư tưởng Hồ Chí Minh
 
@@ -1752,45 +1721,48 @@ Cơ sở lý luận hình thành tư tưởng Hồ Chí Minh
 
 -   Tinh hoa văn hóa nhân loại:
 
-\* Tinh hoa văn hóa phương Đông
+    -   Tinh hoa văn hóa phương Đông
 
--   Về nho giáo: Hồ Chí Minh chú ý kế thừa, đổi mới tư tưởng dùng nhân
-    trị, xã hội; Kế thừa quan điểm về việc xây dựng một xã hội trong đó
-    công bằng, bác ái được xem trọng; Kế thừa, đổi mới tinh thần trong
-    đạo đức Nho giáo trong việc tu dưỡng, rèn luyện đạo đức con người.
+        -   Về nho giáo: Hồ Chí Minh chú ý kế thừa, đổi mới tư tưởng dùng nhân
+            trị, xã hội; Kế thừa quan điểm về việc xây dựng một xã hội trong đó
+            công bằng, bác ái được xem trọng; Kế thừa, đổi mới tinh thần trong
+            đạo đức Nho giáo trong việc tu dưỡng, rèn luyện đạo đức con người.
 
--   Về Phật Giáo: Hồ Chí Minh chú ý kế thừa, phát triển tư tưởng từ bi,
-    vị tha, yêu thương con người, khuyến khích làm việc thiện, chống lại
-    điều ác.
+        -   Về Phật Giáo: Hồ Chí Minh chú ý kế thừa, phát triển tư tưởng từ bi,
+            vị tha, yêu thương con người, khuyến khích làm việc thiện, chống lại
+            điều ác.
 
--   Đối với Lão giáo: Hồ Chí Minh chú ý kế thừa, phát triển tư tưởng Lão
-    giáo, khuyên con người nên sống gắn bó với thiên nhiên, hòa đồng với
-    thiên nhiên; Hồ Chí Minh chú ý kế thừa tư tưởng thoát khỏi mọi ràng
-    buộc của vòng danh lợi Lão giáo. \* Tinh hoa văn hóa phương Tây
+        -   Đối với Lão giáo: Hồ Chí Minh chú ý kế thừa, phát triển tư tưởng Lão
+            giáo, khuyên con người nên sống gắn bó với thiên nhiên, hòa đồng với
+            thiên nhiên; Hồ Chí Minh chú ý kế thừa tư tưởng thoát khỏi mọi ràng
+            buộc của vòng danh lợi Lão giáo. 
+    
+    -   Tinh hoa văn hóa phương Tây
 
--   Kế thừa, phát triển những quan điểm nhân quyền, dân quyền trong bản
-    tuyên ngôn độc lập năm 1776 của Mỹ, bản Tuyên ngôn Nhân quyền và dân
-    quyền năm 1791 của Pháp và đề xuất quan điểm về mưu cầu độc lập tự
-    do hạnh phúc của các dân tộc trong thời đại ngày nay.
+        -   Kế thừa, phát triển những quan điểm nhân quyền, dân quyền trong bản
+            tuyên ngôn độc lập năm 1776 của Mỹ, bản Tuyên ngôn Nhân quyền và dân
+            quyền năm 1791 của Pháp và đề xuất quan điểm về mưu cầu độc lập tự
+            do hạnh phúc của các dân tộc trong thời đại ngày nay.
 
--   Trong hành trình tìm đường cứu nước, người đã nghiên cứu lý luận,
-    tình hình chính trị, kinh tế, văn hóa nhân loại tại những trung tâm
-    kinh tế chính trị lớn ở các cường quốc trên thế giới. -- Chủ nghĩa
-    Mac-Lenin
+        -   Trong hành trình tìm đường cứu nước, người đã nghiên cứu lý luận,
+            tình hình chính trị, kinh tế, văn hóa nhân loại tại những trung tâm
+            kinh tế chính trị lớn ở các cường quốc trên thế giới.
+    
+-   Chủ nghĩa Mac-Lenin
 
--   Cách mạng tháng Mười nga và thời đại mới cũng như chủ nghĩa
-    Mac-Lenin chính là cơ sở lý luận quyết định bước phát triển mới về
-    chất trong tư tưởng Hồ Chí Minh, khiến người vượt hơn hẳn so với
-    những người yêu nước cùng thời.
+    -   Cách mạng tháng Mười nga và thời đại mới cũng như chủ nghĩa
+        Mac-Lenin chính là cơ sở lý luận quyết định bước phát triển mới về
+        chất trong tư tưởng Hồ Chí Minh, khiến người vượt hơn hẳn so với
+        những người yêu nước cùng thời.
 
-Tiếp thu chủ nghĩa Mac-Lenin, Hồ Chí Minh trở thành người cộng sản với
-tầm vóc trí tuệ lớn như Lenin mong muốn:\"Người ta chỉ có thể trở
-thành người cộng sản khi biết làm giàu trí óc của mình bằng sự hiểu
-biết tất cả những kho tàng tri thức mà nhân loại đã tạo ra.\"
+    -   Tiếp thu chủ nghĩa Mac-Lenin, Hồ Chí Minh trở thành người cộng sản với
+        tầm vóc trí tuệ lớn như Lenin mong muốn:\"Người ta chỉ có thể trở
+        thành người cộng sản khi biết làm giàu trí óc của mình bằng sự hiểu
+        biết tất cả những kho tàng tri thức mà nhân loại đã tạo ra.\"
 
--   Trong quá trình lãnh đạo cách mạng, trong các vấn đề dân tộc,\... Hồ
-    Chí Minh đều có những luận điểm bổ sung, phát triển sáng tạo Tư
-    tưởng Hồ Chí Minh.
+    -   Trong quá trình lãnh đạo cách mạng, trong các vấn đề dân tộc,\... Hồ
+        Chí Minh đều có những luận điểm bổ sung, phát triển sáng tạo Tư
+        tưởng Hồ Chí Minh.
 
 Chủ nghĩa Mac-lenin là nội dung nào là quan trọng quyết định bước phát
 triển về chất của tư tưởng Hồ Chí Minh bởi vì chủ nghĩa Mac-Lenin
