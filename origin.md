@@ -269,9 +269,6 @@ chức một các chặt chẽ, chưa có mục đích và hướng đi rõ ràn
     hòng thoát khỏi vòng áp lực\". Cách mạng tư sản là cách mạng chưa
     triệt để bởi vì:
 
-```{=html}
-<!-- -
-```
 -   Cách mạng tư sản chỉ giải phóng dân tộc, không giải phóng nhân dân
     lao động, giai cấp vô sản.
 
@@ -283,9 +280,6 @@ chức một các chặt chẽ, chưa có mục đích và hướng đi rõ ràn
 -   Cách mạng tư sản mặc dù thành công nhưng sau khi lên nắm quyền thì
     các nước tư sản vẫn bóc lột và đàn áp các dân tộc thuộc địa.
 
-```{=html}
-<!-- -
-```
 -   Năm 1917, cách mạng tháng 10 Nga thắng lợi đã ảnh hưởng sâu sắc đến
     việc lựa chọn con đường cứu nước, giải phóng dân tộc của Hồ Chí
     Minh. Người cho rằng: \"Trong thế giới bây giờ chỉ có cách mệnh
@@ -529,9 +523,6 @@ tiến hành bằng con đường cách mạng bạo lực":
 
 -   Khái niệm bạo lực cách mạng:
 
-```{=html}
-<!-- -
-```
 -   Theo nghĩa thông thường: Dùng sức mạnh để cưỡng bức, đàn áp, buộc
     đối phương phải khuất phục nếu không thì quật ngã, tiêu diệt.
 
@@ -541,9 +532,6 @@ tiến hành bằng con đường cách mạng bạo lực":
     đổ một chế độ chính trị lỗi thời và phản động, thiết lập nên một
     chế độ chính trị tiên tiến và cách mạng.
 
-```{=html}
-<!-- -
-```
 -   Tính tất yếu của bạo lực cách mạng:
 
     -   Theo Mác: bạo lực là bàn đỡ của mọi chính quyền cách mạng, vì
@@ -702,9 +690,6 @@ Tập trung dân chủ:
 -   Tập trung và dân chủ có mối quan hệ biện chứng và liên quan mật
     thiết với nhau.
 
-```{=html}
-<!-- -
-```
 -   Tập trung là nền tảng của dân chủ, dân chủ phải đi đến tập trung.
     Phải tránh dân chủ theo kiểu tùy tiện, phân tán, vô tổ chức, dân
     chủ hình thức.
@@ -959,9 +944,6 @@ trên 4 phương diện:
 
 -   Bản chất giai cấp công nhân của nhà nước:
 
-```{=html}
-<!-- -
-```
 -   Nhà nước Việt Nam Dân chủ Cộng hòa theo quan điểm Hồ Chí Minh là nhà
     nước mang bản chất gia cấp công nhân, thể hiện ở:
 
@@ -1208,9 +1190,6 @@ nghiệp cách mạng:
 -   Đai đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược, quyết định
     thành công của cách mạng.
 
-```{=html}
-<!-- -
-```
 -   Đại đoàn kết dân tộc là chiến lược tập hợp mọi lực lượng nhằm hình
     thành và phát triển sức mạnh to lớn của toàn dân trong cách mạng.
 
@@ -1337,9 +1316,6 @@ Tư tưởng Hồ Chí Minh về lực lượng của khối đại đoàn kết
     cấp công nhân, giải quyết tốt mối quan hệ giữa giai cấp và dân tộc
     để tập hợp lực lượng.
 
-```{=html}
-<!-- -
-```
 -   Chủ thể của khối đại đoàn kết dân tộc:
 
     -   Chủ thể của khối đại đoàn kết dân tộc, theo Hồ Chí Minh đó là
@@ -1504,9 +1480,6 @@ hóa đạo đức là một động lực lớn thúc đẩy cho cách mạng p
 
 -   Văn hóa là một mặt trận:
 
-```{=html}
-<!-- -
-```
 -   Măt trận văn hóa là một lĩnh vực có tính độc lập, có mối quan hệ mật
     thiết với các lĩnh vực hoạt động có tính độc lập, có mối quan hệ
     mật thiết với các lĩnh vực khác, đồng thời phản ánh tính chất cam
@@ -1527,9 +1500,6 @@ hóa đạo đức là một động lực lớn thúc đẩy cho cách mạng p
     một thời đại vẻ vang. Vì vậy chiến sĩ văn nghệ phải có những tác
     phẩm xứng đáng với dân tộc anh hùng và thời đại vẻ vang.
 
-```{=html}
-<!-- -
-```
 -   Văn hóa phục vụ quần chúng nhân dân
 
     -   Mọi hoạt động văn hóa phải trở về với cuộc sống thực tại của
@@ -1808,9 +1778,6 @@ Cơ sở lý luận hình thành tư tưởng Hồ Chí Minh
     kinh tế chính trị lớn ở các cường quốc trên thế giới. -- Chủ nghĩa
     Mac-Lenin
 
-```{=html}
-<!-- -
-```
 -   Cách mạng tháng Mười nga và thời đại mới cũng như chủ nghĩa
     Mac-Lenin chính là cơ sở lý luận quyết định bước phát triển mới về
     chất trong tư tưởng Hồ Chí Minh, khiến người vượt hơn hẳn so với

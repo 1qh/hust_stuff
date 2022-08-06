@@ -213,9 +213,6 @@ chẽ, chưa có mục đích & hướng đi rõ ràng.
     nông P' hẵng còn p mưu cm lần nữa mới hòng thoát khỏi vòng áp
     lực\". Cm tư sản là cm chưa triệt để bởi vì:
 
-```{=html}
-<!-- -
-```
 -   Cm tư sản chỉ gpdt, ko gp nd lao động, gc VS.
 
 -   Cm tư sản sau khi giành đc tlợi thì gc tư sản quay ngược lại đàn áp
@@ -226,9 +223,6 @@ chẽ, chưa có mục đích & hướng đi rõ ràng.
 -   Cm tư sản mặc dù thành công nh sau khi lên nắm q\` thì c' nc tư sản
     vẫn bóc lột & đàn áp c' dt thuộc địa.
 
-```{=html}
-<!-- -
-```
 -   Năm 1917, cm tháng 10 Nga tlợi đã ảnh hưởng sâu sắc đến việc lựa
     chọn c.đg cứu nc, gpdt ° HCM. Ng cho rằng: \"Tr thế giới bây giờ
     chỉ có cách mệnh Nga là đã thành công & thành công đến nơi, nghĩa
@@ -428,9 +422,6 @@ Qđiểm ° HCM: "Cm gpdt p đc tiến hành = c.đg cm bạo lực":
 
 -   Khái niệm bạo lực cm:
 
-```{=html}
-<!-- -
-```
 -   Theo nghĩa thông thường: Dùng sm để cưỡng bức, đàn áp, buộc đối
     phương p khuất phục nếu ko thì quật ngã, tiêu diệt.
 
@@ -439,9 +430,6 @@ Qđiểm ° HCM: "Cm gpdt p đc tiến hành = c.đg cm bạo lực":
     nhằm lật đổ 1 chế độ ctrị lỗi thời & phản động, thiết lập nên 1
     chế độ ctrị tiên tiến & cm.
 
-```{=html}
-<!-- -
-```
 -   Tính tất yếu ° bạo lực cm:
 
     -   Theo Mác: bạo lực là bàn đỡ ° ∀ chính q\` cm, vì gc thống trị
@@ -577,9 +565,6 @@ T.trung dchủ:
 
 -   T.trung & dchủ có mqh biện chứng & liên quan mật thiết v nhau.
 
-```{=html}
-<!-- -
-```
 -   T.trung là nền tảng ° dchủ, dchủ p đi đến t.trung. P tránh dchủ theo
     kiểu tùy tiện, phân tán, vô tổ chức, dchủ hình thức.
 
@@ -807,9 +792,6 @@ diện:
 
 -   Bản chất gc công nhân ° NN:
 
-```{=html}
-<!-- -
-```
 -   NN VN Dchủ Cộng hòa theo qđiểm HCM là NN mang bản chất gc công nhân,
     thể hiện ở:
 
@@ -1024,9 +1006,6 @@ TTHCM về vtrò ° đại đkết dt tr sn cm:
 -   Đai đkết dt là vđề có ý nghĩa chiến lược, quyết định thành công °
     cm.
 
-```{=html}
-<!-- -
-```
 -   Đại đkết dt là chiến lược tập hợp ∀ LL nhằm hthành & pt sm to lớn °
     toàn dân tr cm.
 
@@ -1133,9 +1112,6 @@ TTHCM về LL ° khối đại đkết dt:
 -   Xd khối đại đkết toàn dân p đứng trên lập trường gc công nhân, giải
     quyết tốt mqh giữa gc & dt để tập hợp LL.
 
-```{=html}
-<!-- -
-```
 -   Chủ thể ° khối đại đkết dt:
 
     -   Chủ thể ° khối đại đkết dt, theo HCM đó là toàn thể nd, tất °
@@ -1274,9 +1250,6 @@ cho cm pt.
 
 -   Vh là 1 mặt trận:
 
-```{=html}
-<!-- -
-```
 -   Măt trận vh là 1 lĩnh vực có tính độc lập, có mqh mật thiết v c'
     lĩnh vực hđ có tính độc lập, có mqh mật thiết v c' lĩnh vực khác,
     đồng thời phản ánh tính chất cam go, quyết liệt ° hđ vh. Mặt trận
@@ -1295,9 +1268,6 @@ cho cm pt.
     vậy chiến sĩ văn nghệ p có n\~ tác phẩm xứng đáng v dt ahùng &
     thời đại vẻ vang.
 
-```{=html}
-<!-- -
-```
 -   Vh phục vụ qchúng nd
 
     -   ∀ hđ vh p trở về v cuộc sống thực tại ° qchúng, phản ánh đc TT &
