@@ -1,6 +1,8 @@
+# TTHCM
+
 ## 1\. Ptích cơ sở thực tiễn VN hthành TTHCM? Gt TTHCM đv sn đổi mới ở VN h.nay
 
-Cơ sở thực tiễn VN hthành TTHCM:
+### Cơ sở thực tiễn VN hthành TTHCM
 
 - Thực tiễn VN cuối thế kỉ XIX đầu thế kỉ XX
 
@@ -63,7 +65,7 @@ Cơ sở thực tiễn VN hthành TTHCM:
     luận ctrị, TT & tổ chức, sáng lập ĐCSVN, chấm dứt sự khủng hoảng về
     đường lối cm VN, đánh dấu bước hthành cơ bản TTHCM về cm VN.
 
-Gt TTHCM đv sn đổi mới ở VN h.nay:
+### Gt TTHCM đv sn đổi mới ở VN h.nay
 
 - TTHCM tr sn đổi mới h.nay vẫn còn nguyên gt:
 
@@ -92,7 +94,9 @@ Gt TTHCM đv sn đổi mới ở VN h.nay:
 
 ## 2\. Ptích cơ sở lý luận: Gt tr.thống ° dt VN hthành TTHCM. Vtrò ° gd gt tr.thống dt đv sv?
 
-Gt tr.thống ° dt VN hthành TTHCM: Lsử dựng nc & giữ nc mấy ngàn năm bất
+### Gt tr.thống ° dt VN hthành TTHCM
+
+Lsử dựng nc & giữ nc mấy ngàn năm bất
 khuất ° dt đã hthành nên gt tr.thống hết sức đặc sắc & cao quý ° dt VN.
 Nó đã trở thành tiền đề TT, lý luận hthành nên TTHCM, đó là c' gt tiêu
 biểu như:
@@ -117,7 +121,7 @@ biểu như:
 sự để hthành TTHCM, là tiền đề để HCM tiếp thu, kế thừa & tìm ra c.đg
 cứu nc.
 
-Vtrò ° việc gd gt tr.thống dt đv sv h.nay:
+### Vtrò ° việc gd gt tr.thống dt đv sv h.nay
 
 - Là 1 nv qtr, là phần ko thể thiếu hthành & pt đđ, nhân cách ° sv.
     Đặc biệt tr bối cảnh đn tr hội nhập qtế ngày càng sâu rộng thì
@@ -136,7 +140,7 @@ Vtrò ° việc gd gt tr.thống dt đv sv h.nay:
     tr.thống nhằm đảm bảo sự kế tục, t'nhất giữa c' thế hệ cm VN, tiếp
     nối sn ° c' thế hệ cha anh đi trc, vì mtiêu xd & bvệ TQ, XHCN VN.
 
-Hiểu biết ° sv v c' gt tr.thống dt tr gđ h.nay:
+### Hiểu biết ° sv v c' gt tr.thống dt tr gđ h.nay
 
 - 1 bộ phận sv xa rời c' gt tr.thống dt & có xu hướng hướng ngoại.
 
@@ -157,7 +161,7 @@ Hiểu biết ° sv v c' gt tr.thống dt tr gđ h.nay:
 Từ khi tdP tiến hành xâm lược & đặt ách thống trị nc ta, vđề sống còn °
 dt đc đặt ra là p gpdt khỏi ách thực dân đế quốc.
 
-C' luận điểm ° chủ tịch HCM về cm gpdt:
+### C' luận điểm ° chủ tịch HCM về cm gpdt
 
 - Nv hàng đầu ° cm ở thuộc địa là gpdt.
 
@@ -172,7 +176,7 @@ C' luận điểm ° chủ tịch HCM về cm gpdt:
 
 - Cm gpdt p tiến hành = PP bạo lực cm.
 
-Ptích qđiểm: "Cm gpdt muốn tlợi p đi theo c.đg cm VS".
+### Ptích qđiểm: "Cm gpdt muốn tlợi p đi theo c.đg cm VS"
 
 - HCM rút ra đc n\~ bài học từ n\~ thất bại ° c' c.đg cứu nc trc đó:
 
@@ -278,7 +282,7 @@ Tân,\...
 
 ## 5\. Ptích qđiểm ° HCM: "Cm gpdt cần đc tiến hành chủ động, stạo & có kn giành tlợi trc cm VS ở chính quốc". Ý nghĩa ° qđiểm đó v cm VN?
 
-C' luận điểm ° chủ tịch HCM về cm gpdt:
+### C' luận điểm ° chủ tịch HCM về cmgpdt
 
 - Nv hàng đầu ° cm ở thuộc địa là gpdt.
 
@@ -293,7 +297,7 @@ C' luận điểm ° chủ tịch HCM về cm gpdt:
 
 - Cm gpdt p tiến hành = PP bạo lực cm.
 
-Ptích qđiểm: \"Cm gpdt cần đc tiến hành chủ động, stạo\"
+### Ptích qđiểm: \"Cm gpdt cần đc tiến hành chủ động, stạo\"
 
 - Qđiểm ° qtế cộng sản về quan hệ giữa cm gpdt ở c' nc thuộc địa & c'
     nc chính quốc:
@@ -344,7 +348,7 @@ c' nc thuộc địa.
 
 ⇒ Cm thuộc địa có tầm qtr đặc biệt, nd thuộc địa có kn cm to lớn.
 
-Quan hệ giữa cm ở thuộc địa & cm VS ở chính quốc:
+### Quan hệ giữa cm ở thuộc địa & cm VS ở chính quốc
 
 - Theo HCM, giữa cm gpdt ở thuộc địa & cm VS ở chính quốc có mối liên
     hệ mật thiết v nhau, tác động qua lại lẫn nhau tr công cuộc chống
@@ -368,7 +372,7 @@ Cuối cùng, sau khi lần lượt đưa ra n\~ qđiểm ° mình, HCM đã đi
 kđịnh: "Cm gpdt cần đc tiến hành chủ động, stạo & có kn giành tlợi trc
 cm VS ở chính quốc".
 
-Ý nghĩa ° qđiểm v cm VN:
+### Ý nghĩa ° qđiểm v cm VN
 
 - Qđiểm trên đã giúp cho dt VN nhận thức đc vtrò ° mình, dẫn đường cho
     n\~ chiến thắng ° cm VN, thể hiện ở thực tiễn gpdt:
@@ -396,7 +400,7 @@ cm VS ở chính quốc".
 
 ## 6\. Ptích qđiểm ° HCM: "Cm gpdt p đc tiến hành = c.đg cm bạo lực". Gt ° qđiểm v cm VN?
 
-C' luận điểm ° chủ tịch HCM về cm gpdt:
+### C' luận điểm ° chủtịch HCM về cm gpdt
 
 - Nv hàng đầu ° cm ở thuộc địa là gpdt.
 
@@ -411,7 +415,7 @@ C' luận điểm ° chủ tịch HCM về cm gpdt:
 
 - Cm gpdt p tiến hành = PP bạo lực cm.
 
-Qđiểm ° HCM: "Cm gpdt p đc tiến hành = c.đg cm bạo lực":
+### Qđiểm ° HCM: "Cm gpdt p đc tiến hành = c.đg cm bạo lực"
 
 - Khái niệm bạo lực cm:
 
@@ -508,12 +512,12 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
         muốn giành tlợi = quân sự thì mới p kiên quyết phát động chiến
         tranh.
 
-Gt ° qđiểm đv cm VN:
+### Gt ° qđiểm đv cm VN
 
 - Bạo lực cm là c.đg tất yếu nh ko p c.đg duy nhất dẫn đến thành công.
 
-- *Cm tháng 8/1945 & 2 cuộc kháng chiến đã chứng minh cho c.đg đtr
-    gpdt ° VN p đi theo c.đg cm bạo lực.* Thực tế cuộc chiến tranh
+- *Cm tháng 8/1945 & 2 cuộc kháng chiến đã chứng minh cho c.đg đtr gpdt ° VN p đi theo c.đg cm bạo lực.*
+    Thực tế cuộc chiến tranh
     chống xâm lược ở VN đã chứng minh rằng ko thể = c.đg đàm phán,
     nhân nhượng mà giành lại độc lập từ tay P', Mỹ. Đã bao lần triều
     đình nhà Nguyễn nhượng bộ, kí hiệp ước vối P' nh cuối cùng nc ta
@@ -532,7 +536,7 @@ Gt ° qđiểm đv cm VN:
 
 ## 7\. Ptích qđiểm HCM về c' ngtắc "T.trung dchủ"; "Tập thể lđạo, cá nhân phụ trách". C' giải P' phát huy vtrò lđạo ° Đảng tr gđ h.nay?
 
-T.trung dchủ:
+### T.trung dchủ
 
 - T.trung: là sự t'nhất về TT, tổ chức, hành động, thiểu số phục tùng
     đa số, cấp dưới phục tùng cấp trên.
@@ -575,7 +579,7 @@ T.trung dchủ:
         thì đi đến t.trung, tức là đề cập đến ý chí t'nhất, hành động
         t'nhất, như thế mới có sm.
 
-Tập thể lđạo cá nhân phụ trách:
+### Tập thể lđạo cá nhân phụ trách
 
 - Tập thể lđạo:
 
@@ -608,7 +612,7 @@ Tập thể lđạo cá nhân phụ trách:
 ⇒ Thực chất tập thể lđạo có nghĩa là t.trung, cá nhân phụ trách có nghĩa
 là dchủ.
 
-Quan hệ giữa tập thể lđạo, cá nhân phụ trách & t.trung dchủ:
+### Quan hệ giữa tập thể lđạo, cá nhân phụ trách & t.trung dchủ
 
 - Tr đk Đảng cầm q\` ở nc ta h.nay, ngtắc t.trung dchủ có mqh mật
     thiết v ngtắc tập thể lđạo, cá nhân phụ trách. Cta có thể nhìn
@@ -621,7 +625,7 @@ Quan hệ giữa tập thể lđạo, cá nhân phụ trách & t.trung dchủ:
 - HCM kđịnh: "Tập thể lđạo & cá nhân phụ trách cần p luôn luôn đi đôi
     v nhau
 
-Thực trạng h.nay ° Đảng & NN VN:
+### Thực trạng h.nay ° Đảng & NN VN
 
 - Văn kiện Đại hội XI ° Đảng đã chỉ rõ: "1 bộ phận ko nhỏ cán bộ đảng
     viên, kể cả cán bộ chủ chốt c' cấp, yếu kém cả về phẩm chất & năng
@@ -646,7 +650,7 @@ Thực trạng h.nay ° Đảng & NN VN:
     hoặc ng thân tr gia đình theo kiểu "hậu duệ, quan hệ, tiền tệ\...
     hoặc vì nhóm lợi ích\...
 
-C' giải P' phát huy vtrò lđạo ° Đảng tr gđ h.nay:
+### C' giải P' phát huy vtrò lđạo ° Đảng tr gđ h.nay
 
 - 2 ngtắc trên là cực kì qtr tr việc phát huy vtrò lđạo ° Đảng tr gđ
     h.nay.
@@ -679,7 +683,7 @@ C' giải P' phát huy vtrò lđạo ° Đảng tr gđ h.nay:
 
 ## 8\. Ptích qđiểm HCM về c' ngtắc "Tự pb\` & pb\`"; "Kỷ luật nghiêm minh & tự giác". Vận dụng c' ngtắc trên vào xd Đảng tr sạch, vững mạnh h.nay?
 
-Tự pb\` & pb\`:
+### Tự pb\` & pb\`
 
 - Theo HCM, pb\` là nêu lên n\~ khuyết điểm ° đồng chí khác, ° tổ chức
     đảng nhằm phát huy ưu điểm & khắc phục khuyết điểm. Tự pb\` là bản
@@ -712,7 +716,7 @@ Tự pb\` & pb\`:
     tlợi nghị quyết ° đảng bộ, chi bộ & nv ° cq, góp phần xd chi bộ tr
     sạch vững mạnh, hoàn thành tốt nv ctrị đc giao.
 
-Kỷ luật nghiêm minh, tự giác:
+### Kỷ luật nghiêm minh, tự giác
 
 - HCM nhấn mạnh rằng: " Đảng tổ chức rất nghiêm, khác v c' đảng phái
     khác & c' hội qchúng. Tr Đảng chỉ kết nạp n\~ phần tử hăng hái
@@ -738,7 +742,7 @@ Kỷ luật nghiêm minh, tự giác:
     thảo luận dchủ & t'nhất ý kiến trc khi đc chính thức thông qua tại
     c' kỳ đại hội đảng.
 
-Thực trạng công tác xd & chỉnh đốn đảng ngày nay
+### Thực trạng công tác xd & chỉnh đốn đảng ngày nay
 
 - Nghị quyết số 03-NQ/TW nêu rõ: "Tr Đảng có 1 bộ phận giảm sút ý chí
     chiến đấu, phai nhạt lý tưởng, dao động, mất lòng tin, tr đó 1 số
@@ -751,7 +755,7 @@ Thực trạng công tác xd & chỉnh đốn đảng ngày nay
 - 1 bộ phận Đảng viên ko có tính tự giác tr quá trình hđ Đảng, thường
     xuyên dựa dẫm, ỷ lại vào ng khác.
 
-Vận dụng ngtắc trên vào việc xd Đảng tr sạch vững mạnh h.nay:
+### Vận dụng ngtắc trên vào việc xd Đảng tr sạch vững mạnh h.nay
 
 - Tiến hành công cuộc xd, chỉnh đốn Đảng, thực hiện hiệu quả ngtắc tự
     pb\` & pb\` v tập thể, lđạo cán bộ chủ chốt, ng đứng đầu tr c' cq
@@ -768,7 +772,7 @@ Vận dụng ngtắc trên vào việc xd Đảng tr sạch vững mạnh h.nay:
 
 ## 9\. Ptích qđiểm HCM về xd NN dchủ. C' giải P' xd NN VN ngang tầm nv cm h.nay?
 
-Qđiểm ° HCM về dchủ:
+### Qđiểm ° HCM về dchủ
 
 - Dân là chủ: xác định vị thế ° nd
 
@@ -779,8 +783,7 @@ Qđiểm ° HCM về dchủ:
 - Theo chủ tịch HCM, dchủ là quý báu nhất ° dt. Ng kđịnh: \"Nc ta là
     nc dchủ, địa vị cao nhất là dân, vì dân là chủ\".
 
-HCM nêu ra nguyên lý \"Dân là chủ & dân làm chủ\" thể hiện trên 4 phương
-diện:
+### HCM nêu ra nguyên lý \"Dân là chủ & dân làm chủ\" thể hiện trên 4 phương diện
 
 - Bản chất gc công nhân ° NN:
 
@@ -853,7 +856,7 @@ nên*.
 
   - Tr NN vì dân, cán bộ vừa là đầy tớ, nh đồng thời là ng lđạo nd.
 
-Thực trạng thực hiện dchủ h.nay:
+### Thực trạng thực hiện dchủ h.nay
 
 - Nhận thức về dchủ & xd nền dchủ XHCN còn hạn chế, chưa đầy đủ & hệ
     thống, chưa lý giải & làm sáng tỏ kịp thời n\` vđề do thực tiễn
@@ -864,7 +867,7 @@ Thực trạng thực hiện dchủ h.nay:
     & chưa đầy đủ, đó là 1 trở ngại đv sự pt hoặc khiến sự pt rơi vào
     tình trạng kém bền vững.
 
-C' giải P' xd NN VN:
+### C' giải P' xd NN VN
 
 - Tiếp tục phát huy q\` làm chủ ° nd, xd Đảng tr sạch vững mạnh, xd hệ
     thông ctrị theo hướng tinh gọn, hiểu quả gắn v đổi mới ktế xh &
@@ -881,7 +884,9 @@ C' giải P' xd NN VN:
 
 ## 10\. Ptích qđiểm ° HCM về xd NN tr sạch, vững mạnh. Để xd NN VN thật sự tr sạch, hđ có hiệu quả cta cần p làm gì?
 
-Kiểm soát q\` lực ° NN: Để giữ vững bản chất ° NN bảo đảm cho NN hđ có
+### Kiểm soát q\` lực ° NN
+
+Để giữ vững bản chất ° NN bảo đảm cho NN hđ có
 hiệu quả phòng chống thoái hóa biến chất tr đội ngũ cán bộ NN HCM rất
 chú trọng vđề kiểm soát q\` lực NN.
 
@@ -920,7 +925,7 @@ chú trọng vđề kiểm soát q\` lực NN.
         cần chú ý phát huy vtrò kiểm soát q\` lực ° nd. Nếu ko có nd
         giúp sức thì Đảng ko làm đc việc gì hết.
 
-Phòng chống tiêu cực tr NN:
+### Phòng chống tiêu cực tr NN
 
 - C' tiêu cực thường có tr NN:
 
@@ -960,7 +965,7 @@ ko gần gũi qchúng.
   - Huy động sm ° CN y nc vào cuộc chiến chống lại tiêu cực tr c.ng,
         tr bộ máy NN & tr xh.
 
-Thực trạng tr xd NN h.nay:
+### Thực trạng tr xd NN h.nay
 
 - Tham nhũng ở VN là 1 vấn nạn hết sức phổ biến tr c' cq, bộ máy NN.
     (VD: Ông Đinh La Thăng,\...)
@@ -969,7 +974,7 @@ Thực trạng tr xd NN h.nay:
 
 - Đặc q\` đặc lợi xảy ra phổ biến.
 
-Xd NN VN thực sự tr sạch, hđ có hiệu quả cta cần:
+### Xd NN VN thực sự tr sạch, hđ có hiệu quả cta cần
 
 - Nâng cao vtrò ° Đảng tr việc phòng chống c' tiêu cực tr NN.
 
@@ -991,7 +996,7 @@ Xd NN VN thực sự tr sạch, hđ có hiệu quả cta cần:
 
 ## 11\. Ptích TTHCM về vtrò đại đkết dt tr sn cm? Vtrò ° sv tr việc xd khối đại đkết dt ở VN?
 
-TTHCM về vtrò ° đại đkết dt tr sn cm:
+### TTHCM về vtrò ° đại đkết dt tr sn cm
 
 - Đai đkết dt là vđề có ý nghĩa chiến lược, quyết định thành công °
     cm.
@@ -1041,7 +1046,7 @@ công, đại thành công\".
 
   - Bác nói về mục đích ° Đảng Lao động VN: "Đkết toàn dân, bvệ TQ"
 
-Thực trạng ° khối đại đkết tr gđ h.nay:
+### Thực trạng ° khối đại đkết tr gđ h.nay
 
 - Gần đây, khi đại dịch COVID-19 bùng phát, toàn Đảng, toàn dân, toàn
     quân ta, v t.thần \"chống dịch như chống giặc\", đã có n\~ nỗ lực
@@ -1059,7 +1064,7 @@ Thực trạng ° khối đại đkết tr gđ h.nay:
         sát; còn có biểu hiện hành chính hóa, chưa thiết thực, hiệu
         quả.
 
-Vtrò ° sv tr việc xd khối đại đkết dt ở VN h.nay:
+### Vtrò ° sv tr việc xd khối đại đkết dt ở VN h.nay
 
 - Đại đkết dt là lý tưởng có tính nhất quán & xuyên suốt, là vđề sống
     còn, là sợi chỉ đỏ xuyên suốt cm VN, là cội nguồn ° ∀ thành công.
@@ -1071,7 +1076,7 @@ Vtrò ° sv tr việc xd khối đại đkết dt ở VN h.nay:
 
 - Sv sẽ là LL chủ chốt tr việc xd khối đại đkết tr hiện tại & tương lai.
 
-Hiểu biết ° sv tr việc xd khối đại đkết:
+### Hiểu biết ° sv tr việc xd khối đại đkết
 
 - 1 bộ phận ko nhỏ sv ko nhận ra đc tầm qtr ° việc xd khối đại đkết
     dt. 1 vài trường hợp còn tgia tiếp tay cho sự chia rẽ khối đại
@@ -1082,7 +1087,7 @@ Hiểu biết ° sv tr việc xd khối đại đkết:
 
 ## 12\. Ptích TTHCM về LL ° khối đại đkết dt? Vận dụng TT vào việc tập hợp sm ° nd tr việc xd CNXH ở VN?
 
-TTHCM về LL ° khối đại đkết dt:
+### TTHCM về LL ° khối đại đkết dt
 
 - Đại đkết dt là đại đkết toàn dân.
 
@@ -1139,7 +1144,7 @@ trình cm VN, từ cm dchủ nd đến cm XHCN.
 
   - Liên minh công nông là nền tảng ° Mặt trận t'nhất
 
-Vận dụng TT này vào việc tập hợp sm ° nd tr việc xd CNXH ở VN h.nay:
+### Vận dụng TT này vào việc tập hợp sm ° nd tr việc xd CNXH ở VN h.nay
 
 - Tr gđ tình hình dịch bệnh đang leo thang h.nay thì sự đkết giữa c'
     LL tr khối đại đkết dt là cơ sở cho việc thành bại ° công cuộc
@@ -1176,7 +1181,7 @@ Vận dụng TT này vào việc tập hợp sm ° nd tr việc xd CNXH ở VN h
 
 ## 13\. Ptích qđiểm ° HCM về vtrò ° vh. Liên hệ vtrò ° vh v sự pt bền vững ° VN h.nay
 
-Khái niệm vh:
+### Khái niệm vh
 
 - là sản phẩm ° c.ng, gắn liền v c.ng & mtiêu cao nhất là phục vụ đời
     sống c.ng.
@@ -1188,7 +1193,7 @@ Khái niệm vh:
     loài ng đã sản sinh ra nhằm thích ứng n\~ nhu cầu đời sống & đòi
     hỏi ° sự sinh tồn.
 
-Qđiểm ° HCM về vh - HCM có 4 cách tiếp cận chủ yếu về vh:
+### Qđiểm ° HCM về vh - HCM có 4 cách tiếp cận chủ yếu về vh
 
 - Tiếp cận theo nghĩa rộng, tổng hợp ∀ phương thức sinh hoạt ° c.ng.
 
@@ -1200,7 +1205,7 @@ Qđiểm ° HCM về vh - HCM có 4 cách tiếp cận chủ yếu về vh:
 
 - Tiếp cận theo \"phương thức sd công cụ sinh hoạt\"
 
-Qđiểm ° HCM về vtrò ° vh:
+### Qđiểm ° HCM về vtrò ° vh
 
 - Vh là mtiêu, động lực ° sn cm
 
@@ -1271,7 +1276,7 @@ cho cm pt.
         chính họ là n\~ ng thẩm định khách quan, trung trực, chính xác
         c' sản phẩm & là n\~ ng đc hưởng thụ c' gt vh.
 
-Liên hệ vtrò ° vh v sự pt bền vững ° VN h.nay
+### Liên hệ vtrò ° vh v sự pt bền vững ° VN h.nay
 
 - Vh giữ vị trí đặc biệt & vtrò qtr tr sự điều tiết, vận động ∀ mặt °
     xh; là động lực trực tiếp thúc đẩy sự pt bền vững ktế - xh; kích
@@ -1298,7 +1303,7 @@ Liên hệ vtrò ° vh v sự pt bền vững ° VN h.nay
 
 ## 14\. Trình bày qđiểm ° HCM về c' chuẩn mực đđ cm. Liên hệ v quá trình xd đđ cm theo tấm gương HCM
 
-Qđiểm HCM về c' chuẩn mực đđ cm:
+### Qđiểm HCM về c' chuẩn mực đđ cm
 
 - Trung v nc, hiếu v dân
 
@@ -1388,7 +1393,7 @@ Qđiểm HCM về c' chuẩn mực đđ cm:
         đỡ c' cuộc đtr ° nd c' nc về hòa bình, độc lập dt, dchủ & tiến
         bộ xh.
 
-Liên hệ v quá trình xd đđ cm theo tấm gương HCM:
+### Liên hệ v quá trình xd đđ cm theo tấm gương HCM
 
 - Học tập TT tr đđ HCM, Đảng & NN tiếp tục cổ động ptrào thi đua y nc
     tr thời kỳ đổi mới, biểu dương c' tập thể, cá nhân có thành tích
@@ -1407,7 +1412,7 @@ Liên hệ v quá trình xd đđ cm theo tấm gương HCM:
 
 ## 15\. Ptích qđiểm HCM về vtrò ° c.ng. Liên hệ v vđề xd c.ng tr sn đổi mới ở VN h.nay
 
-Quan niệm ° HCM về c.ng:
+### Quan niệm ° HCM về c.ng
 
 - Theo HCM, c.ng là 1 chỉnh thể, t'nhất về trí lực, tâm lực, thể lực,
     đa dạng bởi c' mqh giữa cá nhân & c' mqh xh.
@@ -1420,7 +1425,7 @@ Quan niệm ° HCM về c.ng:
     thể về giới tính, lứa tuổi, nghề nghiệp, chức vụ, vị trí, \... tr
     từng gđ lsử cụ thể.
 
-Qđiểm ° HCM về vtrò ° c.ng:
+### Qđiểm ° HCM về vtrò ° c.ng
 
 - C.ng là mtiêu ° cm. C.ng là chiến lược số 1 tr n\~ TT & hành động °
     HCM. Mtiêu này đc cụ thể hóa tr 3 gđ cm( gpdt - Xd chế độ dchủ
