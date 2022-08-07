@@ -19,8 +19,7 @@
   - Từ năm 1858, đế quốc P' bắt đầu tiến hành xâm lược VN, triều đình
         nhà Nguyễn dần trở thành tay sai ° tdP
 
-  - Từ năm 1858 đến cuối thể kỉ XIX, c' ptrào đtr y nc chống P' lần lượt
-        nổ ra:
+  - Từ năm 1858 đến cuối thể kỉ XIX, c' ptrào đtr y nc chống P' lần lượt nổ ra:
 
     - Ở miền Nam: Khởi nghĩa Trương Định, Nguyễn Trung Trực,\...
 
@@ -79,9 +78,7 @@
     - Vđề xd c.ng mới: là sự kế thừa n\~ yếu tố tích cực ° c.ng
             cũ, tạo ra n\~ cái mới để thích nghi v thời cuộc
 
-- TTHCM là tài sản t.thần to lớn ° Đảng & dt ta, định hướng cho sn cm
-    ° nd ta trên hành trình kiên định v mtiêu độc lập dt & hướng đến
-    CNXH.
+- TTHCM là tài sản t.thần to lớn ° Đảng & dt ta, định hướng cho sn cm ° nd ta trên hành trình kiên định v mtiêu độc lập dt & hướng đến CNXH.
 
 - Đảng lấy TTHCM làm nền tảng TT, kim chỉ nam cho ∀ hành động, dựa vào
     đó để tiếp thu tinh hoa trí tuệ ° dt & nhân loại, nắm vững q luật
@@ -101,25 +98,20 @@ khuất ° dt đã hthành nên gt tr.thống hết sức đặc sắc & cao qu�
 Nó đã trở thành tiền đề TT, lý luận hthành nên TTHCM, đó là c' gt tiêu
 biểu như:
 
-- CN y nc là t.thần, là ý chí kiên cường, bất khuất tr đtr, là cội
-    nguồn trí tuệ & lòng dũng cảm ° nd VN.
+- CN y nc là t.thần, là ý chí kiên cường, bất khuất tr đtr, là cội nguồn trí tuệ & lòng dũng cảm ° nd VN.
 
-- Ý thức tự lập tự cường, t.thần nhân nghĩa đkết, luôn tiếp thu tinh
-    hoa vh nhân loại để làm phong phú thêm tinh hoa vh dt.
+- Ý thức tự lập tự cường, t.thần nhân nghĩa đkết, luôn tiếp thu tinh hoa vh nhân loại để làm phong phú thêm tinh hoa vh dt.
 
-- Tr.thống y nc gắn liền v nd, có t.thần đkết, nhân ái, khoan dung tr
-    cộng đồng.
+- Tr.thống y nc gắn liền v nd, có t.thần đkết, nhân ái, khoan dung tr cộng đồng.
 
-- T.thần lạc quan, niềm tin vào chân lý & chính nghĩa là động lực mạnh
-    mẽ ° dt.
+- T.thần lạc quan, niềm tin vào chân lý & chính nghĩa là động lực mạnh mẽ ° dt.
 
 - T.thần cần cù lao động, thông minh stạo ° nd VN.
 
 - Niềm tự hào về lsử, trân trọng nền vh,\... tr tr.thống ° dt VN.
 
 ⇒ Tr c' gt tr.thống trên thì CN y nc là TT qtr nhất, là LL vật chất thực
-sự để hthành TTHCM, là tiền đề để HCM tiếp thu, kế thừa & tìm ra c.đg
-cứu nc.
+sự để hthành TTHCM, là tiền đề để HCM tiếp thu, kế thừa & tìm ra c.đg cứu nc.
 
 ### Vtrò ° việc gd gt tr.thống dt đv sv h.nay
 
@@ -144,11 +136,9 @@ cứu nc.
 
 - 1 bộ phận sv xa rời c' gt tr.thống dt & có xu hướng hướng ngoại.
 
-- 1 số sv có n\~ hành động, suy nghĩ tiêu cực về n\~ gt tr.thống ° dt.
-    Điều này làm xuất hiện 1 sự tiêu cực nhất định ở giới trẻ.
+- 1 số sv có n\~ hành động, suy nghĩ tiêu cực về n\~ gt tr.thống ° dt. Điều này làm xuất hiện 1 sự tiêu cực nhất định ở giới trẻ.
 
-- Bên cạch đó có rất n\` sv tích cưc tr việc tgia c' hđ thể hiện
-    tr.thống dt, thể hiện tình cảm ° mình đv c' gt tr.thống dt:
+- Bên cạch đó có rất n\` sv tích cưc tr việc tgia c' hđ thể hiện tr.thống dt, thể hiện tình cảm ° mình đv c' gt tr.thống dt:
 
   - Ptrào mùa hè xanh.
 
@@ -171,8 +161,7 @@ dt đc đặt ra là p gpdt khỏi ách thực dân đế quốc.
 
 - Cm gpdt p dựa trên LL đkết dt, lấy liên minh công nông làm nền tảng.
 
-- Cm gpdt cần đc tiến hành chủ động, stạo, & có kn giành tlợi trc cm
-    VS ở chính quốc.
+- Cm gpdt cần đc tiến hành chủ động, stạo, & có kn giành tlợi trc cm VS ở chính quốc.
 
 - Cm gpdt p tiến hành = PP bạo lực cm.
 
@@ -184,8 +173,7 @@ dt đc đặt ra là p gpdt khỏi ách thực dân đế quốc.
 
     - C' cuộc khởi nghĩa pk: Khởi nghĩa Yên Thế, Ptrào Cần Vương, \...
 
-    - C' ptrào đtr mang khuynh hướng dchủ tư sản: Ptrào Đông Du, Ptrào Duy
-Tân,\...
+    - C' ptrào đtr mang khuynh hướng dchủ tư sản: Ptrào Đông Du, Ptrào Duy Tân,\...
 
   - Từ c' thất bại trên, HCM rút ra đc n\~ bài học từ n\~ ng đi trc:
 
@@ -214,8 +202,7 @@ Tân,\...
 
   - Cm tư sản chỉ gpdt, ko gp nd lao động, gc VS.
 
-  - Cm tư sản sau khi giành đc tlợi thì gc tư sản quay ngược lại đàn áp
-        gc VS.
+  - Cm tư sản sau khi giành đc tlợi thì gc tư sản quay ngược lại đàn áp gc VS.
 
   - Cm tư sản chỉ mang lại lợi ích cho gc tư sản.
 
@@ -248,26 +235,22 @@ Tân,\...
 
   - Cm gp p đc thực hiện v LL là toàn bộ dt.
 
-  - Cm gpdt ở VN là 1 bộ phận ° cm thế giới. Do đó cần sự đkết nếu
-        muốn giành tlợi.
+  - Cm gpdt ở VN là 1 bộ phận ° cm thế giới. Do đó cần sự đkết nếu muốn giành tlợi.
 
 - Gt ° qđiểm v cm VN ngày nay:
 
   - Qđiểm cm VS là qđiểm đúng đắn phù hợp v thực tiễn cm VN, giải
-        quyết đc vđề thực tiễn ° cm VN, tr cm gpdt & đến nay là xd
-        XHCN.
+        quyết đc vđề thực tiễn ° cm VN, tr cm gpdt & đến nay là xd XHCN.
 
   - Qđiểm trên phù hợp v nguyện vọng dt: Độc lập dt & tiến lên CNXH.
         Luận điểm này ngày nay vẫn giữ nguyên gt & cta vẫn đang thực
         hiện tiếp tục c.đg cm VS.
 
   - Qđiểm trên phù hợp v xu thế thời đại, cùng chung chí hướng v n\`
-        nc, điều này giúp cho đn cta nhận đc n\` sự giúp đỡ từ bạn bè
-        qtế.
+        nc, điều này giúp cho đn cta nhận đc n\` sự giúp đỡ từ bạn bè qtế.
 
   - Việc đi theo c.đg cm VS đảm bảo cho c' dt thuộc địa giành tlợi 1
-        cách triệt để, giành độc lập dt gắn liền v tự do hạnh phúc °
-        nd.
+        cách triệt để, giành độc lập dt gắn liền v tự do hạnh phúc ° nd.
 
   - Rút ra nhũng bài học ° c' ptrào y nc cuối thế khể 19 đầu thế kỉ
         20 chính vì vậy giúp cm cta giành đc c' chiến thắng vẻ vang tr
@@ -292,35 +275,27 @@ Tân,\...
 
 - Cm gpdt p dựa trên LL đkết dt, lấy liên minh công nông làm nền tảng.
 
-- Cm gpdt cần đc tiến hành chủ động, stạo, & có kn giành tlợi trc cm
-    VS ở chính quốc.
+- Cm gpdt cần đc tiến hành chủ động, stạo, & có kn giành tlợi trc cm VS ở chính quốc.
 
 - Cm gpdt p tiến hành = PP bạo lực cm.
 
 ### Ptích qđiểm: \"Cm gpdt cần đc tiến hành chủ động, stạo\"
 
-- Qđiểm ° qtế cộng sản về quan hệ giữa cm gpdt ở c' nc thuộc địa & c'
-    nc chính quốc:
+- Qđiểm ° qtế cộng sản về quan hệ giữa cm gpdt ở c' nc thuộc địa & c' nc chính quốc:
 
   - Tlợi ° cm thuộc địa phụ thuộc vào tlợi ° cm VS ở chính quốc.
 
-    - Nd VN chỉ có thể phụ thuộc vào sự tlợi ° gc VS ở P'. Điều này, theo
-HCM là hoàn toàn bất hợp lý.
+    - Nd VN chỉ có thể phụ thuộc vào sự tlợi ° gc VS ở P'. Điều này, theo HCM là hoàn toàn bất hợp lý.
 
-  - Cm thuộc địa chỉ có thể giành tlợi khi gc VS ở chính quốc thành
-    công.
+  - Cm thuộc địa chỉ có thể giành tlợi khi gc VS ở chính quốc thành công.
 
-    - HCM cho rằng: qđiểm này ko đánh giá đúng tính chủ động, stạo ° cm ở
-c' nc thuộc địa.
+    - HCM cho rằng: qđiểm này ko đánh giá đúng tính chủ động, stạo ° cm ở c' nc thuộc địa.
 
-    - Qtế cộng sản ko đánh giá đúng đc vtrò ° nd c' nc thuộc địa cx như cm
-ở thuộc địa.
+    - Qtế cộng sản ko đánh giá đúng đc vtrò ° nd c' nc thuộc địa cx như cm ở thuộc địa.
 
-- HCM nhận thấy đc vị trí, vtrò, tầm qtr ° c' nc thuộc địa đv CN đế
-    quốc:
+- HCM nhận thấy đc vị trí, vtrò, tầm qtr ° c' nc thuộc địa đv CN đế quốc:
 
-  - Thuộc địa là nơi duy trì sự tồn tại, pt, là món mồi béo bở cho
-        CN đế quốc.
+  - Thuộc địa là nơi duy trì sự tồn tại, pt, là món mồi béo bở cho CN đế quốc.
 
   - Nguyên nhân sâu xa ° c' cuộc chiến tranh xâm lược là vđề thị
         trường. Ng cho rằng, "Tất cả sinh lực ° CN tư bản qtế đều lấy
@@ -329,8 +304,7 @@ c' nc thuộc địa.
         rẻ mạt cho đạo quân lao động ° nó, & nhất là tuyển n\~ binh
         lính ng bản xứ cho c' đạo quân phản cm ° nó".
 
-- HCM nhận thấy đc tiềm năng giành chiến thắng ° c' nc thuộc địa trc
-    CN đế quốc:
+- HCM nhận thấy đc tiềm năng giành chiến thắng ° c' nc thuộc địa trc CN đế quốc:
 
   - Thuộc địa là mắt xích yếu ° c' nc CN đế quốc: Bản thân c' nc đế
         quốc sang xâm lược ko thể thông thuộc tình hình ở thuộc địa.
@@ -365,8 +339,7 @@ c' nc thuộc địa.
     vòi thôi, thì cái vòi còn lại vẫn tiếp tục hút máu ° gc VS, con
     vật vẫn tiếp tục sống & cái vòi bị cắt đứt lại sẽ mọc ra\".
 
-⇒ Cm ở thuộc địa có vtrò rất lớn tr việc cùng v cm VS ở chính quốc tiêu
-diệt CN đế quốc.
+⇒ Cm ở thuộc địa có vtrò rất lớn tr việc cùng v cm VS ở chính quốc tiêu diệt CN đế quốc.
 
 Cuối cùng, sau khi lần lượt đưa ra n\~ qđiểm ° mình, HCM đã đi đến
 kđịnh: "Cm gpdt cần đc tiến hành chủ động, stạo & có kn giành tlợi trc
@@ -374,11 +347,9 @@ cm VS ở chính quốc".
 
 ### Ý nghĩa ° qđiểm v cm VN
 
-- Qđiểm trên đã giúp cho dt VN nhận thức đc vtrò ° mình, dẫn đường cho
-    n\~ chiến thắng ° cm VN, thể hiện ở thực tiễn gpdt:
+- Qđiểm trên đã giúp cho dt VN nhận thức đc vtrò ° mình, dẫn đường cho n\~ chiến thắng ° cm VN, thể hiện ở thực tiễn gpdt:
 
-  - Tlợi đế quốc Mỹ, tdP minh chứng cho ý chí bất khuất, kiên cường,
-        t.thần cm ° nd VN.
+  - Tlợi đế quốc Mỹ, tdP minh chứng cho ý chí bất khuất, kiên cường, t.thần cm ° nd VN.
 
   - Cm VN giành tlợi trc khi cm VS ở chính quốc chưa nổ ra. Điều này
         đã chứng minh cho sự đúng đắn về qđiểm ° chủ tịch HCM.
@@ -395,8 +366,7 @@ cm VS ở chính quốc".
         chống dịch ko cho dịch lây lan, trở thành 1 tr n\~ tấm gương
         tr việc phòng chống dịch.
 
-  - Nd VN stạo tr quá trình phòng chống dịch bệnh: Cây ATM gạo,
-        robot diệt khuẩn,\...
+  - Nd VN stạo tr quá trình phòng chống dịch bệnh: Cây ATM gạo, robot diệt khuẩn,\...
 
 ## 6\. Ptích qđiểm ° HCM: "Cm gpdt p đc tiến hành = c.đg cm bạo lực". Gt ° qđiểm v cm VN?
 
@@ -410,8 +380,7 @@ cm VS ở chính quốc".
 
 - Cm gpdt p dựa trên LL đkết dt, lấy liên minh công nông làm nền tảng.
 
-- Cm gpdt cần đc tiến hành chủ động, stạo, & có kn giành tlợi trc cm
-    VS ở chính quốc.
+- Cm gpdt cần đc tiến hành chủ động, stạo, & có kn giành tlợi trc cm VS ở chính quốc.
 
 - Cm gpdt p tiến hành = PP bạo lực cm.
 
@@ -436,11 +405,9 @@ cm VS ở chính quốc".
         & tay sai, Ng đã vạch rõ tính tất yếu ° bạo lực cm:
 
     - Sự thống trị cuả thực dân đế quốc ở thuộc địa vô cùng hà khắc, ko hề
-có 1 chút q\` tự do dchủ nào, ko có cơ sở nào cho thực hành đtr ko bạo
-lực.
+có 1 chút q\` tự do dchủ nào, ko có cơ sở nào cho thực hành đtr ko bạo lực.
 
-    - \"Chế độ thực dân, tự bản thân nó, đã là 1 hành động bạo lực ° kẻ
-mạnh đv kẻ yếu rồi".
+    - \"Chế độ thực dân, tự bản thân nó, đã là 1 hành động bạo lực ° kẻ mạnh đv kẻ yếu rồi".
 
     - Sau khi xâm chiếm c' nc thuộc địa, bọn thực dân đế quốc đã thực hiện
 chế độ cai trị vô cùng tàn bạo: dùng bạo lực để đàn áp dã man c' ptrào y
@@ -468,8 +435,7 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
 
   - Đtr ngoại giao cx là 1 mặt trận có ý nghĩa chiến lược nhằm thêm
         bạn bớt thù, phân hoá, cô lập kẻ thù, tranh thủ sự đồng tình
-        ủng hộ ° qtế. "vừa đánh vừa đàm", "đánh là chủ yếu, đàm là hỗ
-        trợ".
+        ủng hộ ° qtế. "vừa đánh vừa đàm", "đánh là chủ yếu, đàm là hỗ trợ".
 
   - Đtr ktế là ra sức tăng sản xuất, thực hành tiết kiệm, pt ktế °
         ta, phá hoại ktế ° địch.
@@ -482,15 +448,11 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
 
 - Nội dung ° TT bạo lực cm HCM:
 
-  - Quán triệt qđiểm ° CN Mác-Lênin, coi sn cm là sn ° qchúng, HCM
-        cho rằng bạo lực cm là bạo lực ° qchúng.
+  - Quán triệt qđiểm ° CN Mác-Lênin, coi sn cm là sn ° qchúng, HCM cho rằng bạo lực cm là bạo lực ° qchúng.
 
-  - Tr thời kì vận động gpdt, Ng cùng v Trung ương Đảng đã chỉ đạo
-        xd cơ sở ° cm bạo lực gồm 2 LL: LL ctrị qchúng & LL vũ trang
-        nd.
+  - Tr thời kì vận động gpdt, Ng cùng v Trung ương Đảng đã chỉ đạo xd cơ sở ° cm bạo lực gồm 2 LL: LL ctrị qchúng & LL vũ trang nd.
 
-  - Bạo lực cm gồm 2 hình thức đtr: ctrị & vũ trang. P sd khéo léo 2
-        hình thức thì mới giành đc tlợi cho cm.
+  - Bạo lực cm gồm 2 hình thức đtr: ctrị & vũ trang. P sd khéo léo 2 hình thức thì mới giành đc tlợi cho cm.
 
   - Theo sáng kiến ° Ng, mặt trận Việt Minh đc thành lập, là nơi tập
         hợp, giác ngộ & rèn luyện LL ctrị qchúng, là LL cơ bản & giữ
@@ -498,8 +460,7 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
 
   - Ng ko nhấn mạnh đtr vũ trang là c.đg duy nhất mà p kết hợp c'
         hình thức đtr v nhau. Cm gp dân tốc cần đc thực hiện = n\`
-        c.đg, tr đó c.đg cm bạo lực là tất yếu nh ko p là c.đg duy
-        nhất.
+        c.đg, tr đó c.đg cm bạo lực là tất yếu nh ko p là c.đg duy nhất.
 
 - TT bạo lực cm gắn bó hữu cơ v TT nhân đạo hòa bình:
 
@@ -509,8 +470,7 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
 
   - Chiến tranh chỉ là giải P' bắt buộc cuối cùng. Chỉ khi ko còn kn
         hòa hoãn, khi kẻ thù ngoan cố bám giữ lập trường thực dân, chỉ
-        muốn giành tlợi = quân sự thì mới p kiên quyết phát động chiến
-        tranh.
+        muốn giành tlợi = quân sự thì mới p kiên quyết phát động chiến tranh.
 
 ### Gt ° qđiểm đv cm VN
 
@@ -525,8 +485,7 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
     kinh nghĩa thục ° Lương Văn Can nhằm nhờ tay tdP để cải tiến xh,
     nâng cao dân trí rồi từ đó dành độc lập đều thất bai.
 
-- N\~ tlợi trên mặt trận ngoại giao & quân sự này là tiền đề cho chiến
-    thắng mùa xuân 75 gp miền Nam, t'nhất đn.
+- N\~ tlợi trên mặt trận ngoại giao & quân sự này là tiền đề cho chiến thắng mùa xuân 75 gp miền Nam, t'nhất đn.
 
 - Tr gđ h.nay, cm VN thực hiện 2 nv đó xd & bvệ TQ. Vận dụng qđiểm chủ
     tịch HCM, khi có c' cuộc xung đột xảy ra (Chủ q\` lãnh thổ trên
@@ -538,20 +497,15 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
 
 ### T.trung dchủ
 
-- T.trung: là sự t'nhất về TT, tổ chức, hành động, thiểu số phục tùng
-    đa số, cấp dưới phục tùng cấp trên.
+- T.trung: là sự t'nhất về TT, tổ chức, hành động, thiểu số phục tùng đa số, cấp dưới phục tùng cấp trên.
 
-  - Đảng viên chấp hành nghị quyết ° tổ chức Đảng. "Đảng tuy n\` ng
-        nh khi tiến hành chỉ như 1 ng".
+  - Đảng viên chấp hành nghị quyết ° tổ chức Đảng. "Đảng tuy n\` ng nh khi tiến hành chỉ như 1 ng".
 
-  - HCM nhấn mạnh: tr Đảng p t'nhất về TT, tổ chức & hành động. Biểu
-        hiện ° t.trung là thiểu số phục tùng đa số, cấp dưới phục tùng
-        cấp trên\...
+  - HCM nhấn mạnh: tr Đảng p t'nhất về TT, tổ chức & hành động. Biểu hiện ° t.trung là thiểu số phục tùng đa số, cấp dưới phục tùng cấp trên\...
 
 - Dchủ: dân là chủ & dân làm chủ, q\` lực thuộc về nd.
 
-  - Ng dân là chủ thể ° ∀ q\` lực NN, chế độ ta là chế độ dchủ, TT p
-        tự do, đv ∀ vđề, ∀ ng đều đc tư do bày tỏ ý kiến.
+  - Ng dân là chủ thể ° ∀ q\` lực NN, chế độ ta là chế độ dchủ, TT p tự do, đv ∀ vđề, ∀ ng đều đc tư do bày tỏ ý kiến.
 
   - Dchủ vừa là bản chất, vừa là động lực, mtiêu ° xh mới mà Đảng ta
         lđạo nd xd nên. Dchủ tr Đảng là tất cả đảng viên đều đc tự do
@@ -561,11 +515,9 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
 
 - T.trung & dchủ có mqh biện chứng & liên quan mật thiết v nhau.
 
-  - T.trung là nền tảng ° dchủ, dchủ p đi đến t.trung. P tránh dchủ theo
-        kiểu tùy tiện, phân tán, vô tổ chức, dchủ hình thức.
+  - T.trung là nền tảng ° dchủ, dchủ p đi đến t.trung. P tránh dchủ theo kiểu tùy tiện, phân tán, vô tổ chức, dchủ hình thức.
 
-  - T.trung trên cơ sở phát huy dchủ chứ ko p t.trung quan liêu, độc
-        đoán, chuyên q\`.
+  - T.trung trên cơ sở phát huy dchủ chứ ko p t.trung quan liêu, độc đoán, chuyên q\`.
 
   - T.trung trên cơ sở dchủ, & dchủ p hướng đến t.trung. Chẳng hạn khi
         đứng trc 1 vđề ° tập thể, ∀ thành viên t.trung bàn bạc, mỗi ng có
@@ -609,8 +561,7 @@ lực cm, dùng bạo lực cm để chống lại phản bạo lực cm ° kẻ
         trách ko do cá nhân, thì sẽ dẫn đến cái tệ bừa bãi lộn xộn, vô
         chính phủ. Kq cx là hỏng việc."
 
-⇒ Thực chất tập thể lđạo có nghĩa là t.trung, cá nhân phụ trách có nghĩa
-là dchủ.
+⇒ Thực chất tập thể lđạo có nghĩa là t.trung, cá nhân phụ trách có nghĩa là dchủ.
 
 ### Quan hệ giữa tập thể lđạo, cá nhân phụ trách & t.trung dchủ
 
@@ -619,41 +570,34 @@ là dchủ.
     nhận ngtắc tập thể lđạo, cá nhân phụ trách vừa là 1 ngtắc tr lđạo
     ° Đảng vừa là 1 nội dung, biểu hiện ° ngtắc t.trung dchủ.
 
-- HCM đã giải thích : "Tập thể lđạo là dchủ. Cá nhân phụ trách là
-    t.trung. Tập thể lđạo, cá nhân phụ trách, tức là dchủ t.trung."
+- HCM đã giải thích : "Tập thể lđạo là dchủ. Cá nhân phụ trách là t.trung. Tập thể lđạo, cá nhân phụ trách, tức là dchủ t.trung."
 
-- HCM kđịnh: "Tập thể lđạo & cá nhân phụ trách cần p luôn luôn đi đôi
-    v nhau
+- HCM kđịnh: "Tập thể lđạo & cá nhân phụ trách cần p luôn luôn đi đôi v nhau
 
 ### Thực trạng h.nay ° Đảng & NN VN
 
 - Văn kiện Đại hội XI ° Đảng đã chỉ rõ: "1 bộ phận ko nhỏ cán bộ đảng
     viên, kể cả cán bộ chủ chốt c' cấp, yếu kém cả về phẩm chất & năng
-    lực; thiếu tính chiến đấu & t.thần bvệ qđiểm, đường lối chính sách
-    ° Đảng,\..."
+    lực; thiếu tính chiến đấu & t.thần bvệ qđiểm, đường lối chính sách ° Đảng,\..."
 
 - Tr thời gian qua, tuyệt đại đa số c' tổ chức đảng tr toàn Đảng thực hiện
     tốt ngtắc t.trung dchủ. Tuy nhiên, 1 số cấp ủy, tổ chức đảng & cán bộ
-    chủ trì bị xử lí kỷ luật, tr đó nguyên nhân chủ yếu là vi phạm ngtắc
-    t.trung dchủ.
+    chủ trì bị xử lí kỷ luật, tr đó nguyên nhân chủ yếu là vi phạm ngtắc t.trung dchủ.
 
 - Tr Đảng có 1 bộ phận giảm sút ý chí chiến đấu, phai nhạt lý tưởng,
     dao động mất lòng tin; 1 số cán bộ, đảng viên sa vào CN cá nhân,
     trở nên thoái hoá, hư hỏng; tệ tham nhũng, hối lộ quan liêu kéo
-    dài; tình trạng mất đkết xảy ra ở ko ít nơi, có nơi rất nghiêm
-    trọng.
+    dài; tình trạng mất đkết xảy ra ở ko ít nơi, có nơi rất nghiêm trọng.
 
 - Tr 1 số trường hợp, c' thành viên tr cấp uỷ, tổ chức đảng, cq NN do
     còn nể nang, né tránh, ngại va chạm đã để ng đứng đầu cấp uỷ, ban
     cán sự đảng lạm q\`, lộng q\`, tự tung tự tác, bất chấp ngtắc, q
     định ° Đảng, P' luật ° NN để làm trái nhằm trục lợi cho bản thân
-    hoặc ng thân tr gia đình theo kiểu "hậu duệ, quan hệ, tiền tệ\...
-    hoặc vì nhóm lợi ích\...
+    hoặc ng thân tr gia đình theo kiểu "hậu duệ, quan hệ, tiền tệ\... hoặc vì nhóm lợi ích\...
 
 ### C' giải P' phát huy vtrò lđạo ° Đảng tr gđ h.nay
 
-- 2 ngtắc trên là cực kì qtr tr việc phát huy vtrò lđạo ° Đảng tr gđ
-    h.nay.
+- 2 ngtắc trên là cực kì qtr tr việc phát huy vtrò lđạo ° Đảng tr gđ h.nay.
 
 - Đk tiên quyết để thực hiện tốt ngtắc t.trung dchủ tr tình hình h.nay
     là c' cấp ủy, tổ chức Đảng p thật sự tr sạch, vững mạnh. Số đảng
@@ -678,8 +622,7 @@ là dchủ.
     chấn chỉnh & cải tiến sinh hoạt Đảng, bố trí n\~ cán bộ cốt cán,
     n\~ ng có đầy đủ năng lực & phẩm chất đđ.
 
-- Thực hiện tốt về công tác cản bộ, chú ý đến đời sống vật chất ° cán
-    bộ Đảng viện.
+- Thực hiện tốt về công tác cản bộ, chú ý đến đời sống vật chất ° cán bộ Đảng viện.
 
 ## 8\. Ptích qđiểm HCM về c' ngtắc "Tự pb\` & pb\`"; "Kỷ luật nghiêm minh & tự giác". Vận dụng c' ngtắc trên vào xd Đảng tr sạch, vững mạnh h.nay?
 
@@ -688,25 +631,19 @@ là dchủ.
 - Theo HCM, pb\` là nêu lên n\~ khuyết điểm ° đồng chí khác, ° tổ chức
     đảng nhằm phát huy ưu điểm & khắc phục khuyết điểm. Tự pb\` là bản
     thân tự mình soi rọi mình, tự nghiêm khắc, thật thà thừa nhận,
-    công khai thừa nhận trc mặt ∀ ng khuyết điểm ° mình để tìm cách
-    sửa chữa.
+    công khai thừa nhận trc mặt ∀ ng khuyết điểm ° mình để tìm cách sửa chữa.
 
 - Tự pb\` & pb\` p đi đôi v nhau, đó là PP gd, rèn luyện cán bộ, đảng
     viên. Thực chất ° tự pb\` & pb\` là góp ý giúp đồng chí, đồng
     nghiệp & tự bản thân kiểm điểm lại xem cái làm đc & cái chưa làm
     đc, làm hay hoặc còn thiếu sót, sai lầm & từ đó phát huy cái tốt,
-    tìm ra biện P' khắc phục sửa chữa cái chưa hay, cái khuyết điểm,
-    sai lầm.
+    tìm ra biện P' khắc phục sửa chữa cái chưa hay, cái khuyết điểm, sai lầm.
 
-- HCM coi tự pb\` & pb\` là việc p làm thường xuyên "như mỗi ngày p
-    rửa mặt".
+- HCM coi tự pb\` & pb\` là việc p làm thường xuyên "như mỗi ngày p rửa mặt".
 
-- Ng cho rằng tự pb\` & pb\` là p trung thực, kiên quyết, đúng ng đúng
-    việc, p có vh\...
+- Ng cho rằng tự pb\` & pb\` là p trung thực, kiên quyết, đúng ng đúng việc, p có vh\...
 
-- Ng viết tr Di chúc: "Tr Đảng thực hành rộng rãi, thường xuyên &
-    nghiêm chỉnh tự pb\` & pb\` là cách tốt nhất để củng cố sự đkết
-    t'nhất tr Đảng".
+- Ng viết tr Di chúc: "Tr Đảng thực hành rộng rãi, thường xuyên & nghiêm chỉnh tự pb\` & pb\` là cách tốt nhất để củng cố sự đkết t'nhất tr Đảng".
 
 - Tự pb\` & pb\` góp phần nâng cao năng lực lđạo & sức chiến đấu ° tổ
     chức đảng, giữ gìn phẩm chất, tư cách đảng viên, nâng cao uy tín °
@@ -722,17 +659,14 @@ là dchủ.
     khác & c' hội qchúng. Tr Đảng chỉ kết nạp n\~ phần tử hăng hái
     nhất, cm nhất. Đảng có n\~ đk kỷ luật bắt buộc mỗi Đảng viên p
     theo. Ko có kỷ luật sắt ko có Đảng. Đã vào Đảng thì p theo TT °
-    Đảng. Đảng đã chỉ thị nghị quyết là p làm. Ko làm thì đuổi ra khỏi
-    Đảng"
+    Đảng. Đảng đã chỉ thị nghị quyết là p làm. Ko làm thì đuổi ra khỏi Đảng"
 
 - Kỷ luật ° Đảng xuất phát từ ý chí ° toàn Đảng nhằm bảo đảm cho sự
     t'nhất, t.trung cao tr Đảng, đồng thời để phát huy dchủ, phát huy
     tính tích cực & stạo ° toàn thể đảng viên & c' tổ chức đảng. Vì
-    vậy, HCM luôn kđịnh: Kỷ luật ° Đảng là "kỷ luật sắt, nghĩa là
-    nghiêm túc & tự giác".
+    vậy, HCM luôn kđịnh: Kỷ luật ° Đảng là "kỷ luật sắt, nghĩa là nghiêm túc & tự giác".
 
-- Kỉ luật ° Đảng là kỉ luật tự giác, \"do lòng tự giác ° Đảng viên về
-    nv ° họ đv Đảng\".
+- Kỉ luật ° Đảng là kỉ luật tự giác, \"do lòng tự giác ° Đảng viên về nv ° họ đv Đảng\".
 
 - Kỷ luật ° Đảng ko chỉ đòi hỏi tính tự giác mà còn mang tính bắt buộc
     đv n\~ cá nhân, n\~ bộ phận chưa ý thức đầy đủ nv ° ng đảng viên.
@@ -749,11 +683,9 @@ là dchủ.
     chịu ảnh hưởng ° khuynh hướng cơ hội, xét lại, muốn đưa đn đi c.đg
     khác; thậm chí đã có ng phản bội, đầu hàng\"
 
-- 1 bộ phân ko nhỏ cán bộ đảng viên thoái hoá biến chất về mặt đđ, c'
-    chi bộ thể hiện sự yếu kém xa rời c' ngtắc ° đảng.
+- 1 bộ phân ko nhỏ cán bộ đảng viên thoái hoá biến chất về mặt đđ, c' chi bộ thể hiện sự yếu kém xa rời c' ngtắc ° đảng.
 
-- 1 bộ phận Đảng viên ko có tính tự giác tr quá trình hđ Đảng, thường
-    xuyên dựa dẫm, ỷ lại vào ng khác.
+- 1 bộ phận Đảng viên ko có tính tự giác tr quá trình hđ Đảng, thường xuyên dựa dẫm, ỷ lại vào ng khác.
 
 ### Vận dụng ngtắc trên vào việc xd Đảng tr sạch vững mạnh h.nay
 
@@ -761,8 +693,7 @@ là dchủ.
     pb\` & pb\` v tập thể, lđạo cán bộ chủ chốt, ng đứng đầu tr c' cq
     tổ chức từ trung ương đến địa phương.
 
-- Đẩy mạnh công tác kiểm tra, giám sát tăng cường kỷ luật, kỷ cương tr
-    Đảng.
+- Đẩy mạnh công tác kiểm tra, giám sát tăng cường kỷ luật, kỷ cương tr Đảng.
 
 - Xd q định tr mỗi cq, đơn vị, đảm bảo q\` đc thông tin, đc bàn, đc
     quyết định & đc kiểm tra, giám sát ° ∀ ng đv c' vđề thực hiện nv
@@ -780,15 +711,13 @@ là dchủ.
 
 - Dchủ: xác định rằng q\` lực NN thuộc về nd.
 
-- Theo chủ tịch HCM, dchủ là quý báu nhất ° dt. Ng kđịnh: \"Nc ta là
-    nc dchủ, địa vị cao nhất là dân, vì dân là chủ\".
+- Theo chủ tịch HCM, dchủ là quý báu nhất ° dt. Ng kđịnh: \"Nc ta là nc dchủ, địa vị cao nhất là dân, vì dân là chủ\".
 
 ### HCM nêu ra nguyên lý \"Dân là chủ & dân làm chủ\" thể hiện trên 4 phương diện
 
 - Bản chất gc công nhân ° NN:
 
-  - NN VN Dchủ Cộng hòa theo qđiểm HCM là NN mang bản chất gc công nhân,
-    thể hiện ở:
+  - NN VN Dchủ Cộng hòa theo qđiểm HCM là NN mang bản chất gc công nhân, thể hiện ở:
 
     - ĐCSVN giữ vị trí & vtrò cầm q\` đn.
 
@@ -798,55 +727,42 @@ là dchủ.
 
   - Bản chất gc công nhân t'nhất v tính nd & tính dt:
 
-    - NN VN ra đời là kq ° cuộc đtr lâu dài, gian khó ° rất n\` thế hệ ng
-VN đi trc.
+    - NN VN ra đời là kq ° cuộc đtr lâu dài, gian khó ° rất n\` thế hệ ng VN đi trc.
 
     - NN VN vì lợi ích ° nd, lấy q\` lợi ° nd làm nền tảng.
 
-    - Tr thực tế, NN mới ở VN đã & đang đảm đương nv mà toàn thể dt giao
-phó.
+    - Tr thực tế, NN mới ở VN đã & đang đảm đương nv mà toàn thể dt giao phó.
 
-- NN ° nd: Tất cả ∀ q\` lực tr NN & tr xh đều thụôc về nd, nd thực thi
-    theo 2 hình thức dchủ trực tiếp & dchủ gián tiếp.
+- NN ° nd: Tất cả ∀ q\` lực tr NN & tr xh đều thụôc về nd, nd thực thi theo 2 hình thức dchủ trực tiếp & dchủ gián tiếp.
 
-  - Dchủ trực tiếp là hình thức dchủ tr đó nd trực tiếp quyết định ∀
-        vđề liên quan đến vận mệnh quốc gia, dt & q\` lợi ° dân chúng.
+  - Dchủ trực tiếp là hình thức dchủ tr đó nd trực tiếp quyết định ∀ vđề liên quan đến vận mệnh quốc gia, dt & q\` lợi ° dân chúng.
 
   - Dchủ gián tiếp là hình thức dchủ mà tr đó nd thực thi q\` lực °
         mình thông qua c' đại diện mà họ lựa chọn, bầu ra & n\~ thiết
-        chế q\` lực mà họ lập nên. Theo HCM, tr hình thức dchủ gián
-        tiếp:
+        chế q\` lực mà họ lập nên. Theo HCM, tr hình thức dchủ gián tiếp:
 
-    - *Q\` lực NN là q\` thừa ủy ° nd*. Tự bản thân NN ko có q\` lực. Q\`
-lực ° NN là do nd ủy thác cho.
+    - *Q\` lực NN là q\` thừa ủy ° nd*. Tự bản thân NN ko có q\` lực. Q\` lực ° NN là do nd ủy thác cho.
 
-    - *Nd có q\` kiểm soát, pb\` NN, có q\` bãi miễn n\~ đại biểu mà họ đã
-lựa chọn, bầu ra & có q\` giải tán n\~ thiết chế q\` lực mà họ đã lập
-nên*.
+    - *Nd có q\` kiểm soát, pb\` NN, có q\` bãi miễn n\~ đại biểu mà họ đã lựa chọn, bầu ra & có q\` giải tán n\~ thiết chế q\` lực mà họ đã lập nên*.
 
     - *Luật P' dchủ là công cụ q\` lực ° nd*.
 
 - NN do nd:
 
-  - Tr TTHCM, NN do nd là NN trc hết do nd lập nên sau tlợi ° sn cm
-        ° toàn dt dưới sự lđạo ° ĐCSVN.
+  - Tr TTHCM, NN do nd là NN trc hết do nd lập nên sau tlợi ° sn cm ° toàn dt dưới sự lđạo ° ĐCSVN.
 
-  - NN do dân còn có nghĩa là dân làm chủ. Ng kđịnh: \"Nc ta là nc
-        dchủ, nghĩa là NN do dân làm chủ\".
+  - NN do dân còn có nghĩa là dân làm chủ. Ng kđịnh: \"Nc ta là nc dchủ, nghĩa là NN do dân làm chủ\".
 
   - Theo qđiểm ° chủ tịch HCM, \"Nd có q\` lợi làm chủ, thì p có
         nghĩa vụ làm tròn bổn phận ° công dân, giữ đúng đđ công đân\".
         Nd có q\` làm chủ thì p tuân theo P' luật ° NN, tuân theo kỷ
-        luật lao động, giữ gìn trật tự chung, đóng góp( nộp thuế )
-        đúng kỳ,\...
+        luật lao động, giữ gìn trật tự chung, đóng góp( nộp thuế ) đúng kỳ,\...
 
-  - NN do nd cần coi trọng việc gd nd, đồng thời nd cx p tự giác
-        phấn đấu để có đủ năng lực thực hiện q\` dchủ ° mình.
+  - NN do nd cần coi trọng việc gd nd, đồng thời nd cx p tự giác phấn đấu để có đủ năng lực thực hiện q\` dchủ ° mình.
 
 - NN vì nd:
 
-  - NN vì dân là NN phục vụ lợi ích & nguyện vọng ° nd, ko có đặc
-        q\` đặc lợi, thực sự tr sạch, cần kiệm liêm chính.
+  - NN vì dân là NN phục vụ lợi ích & nguyện vọng ° nd, ko có đặc q\` đặc lợi, thực sự tr sạch, cần kiệm liêm chính.
 
   - HCM là 1 vị chủ tịch vì dân & Ng y cầu c' cq, cán bộ NN đều p vì
         nd phục vụ. Ng nói: \"C' công việc ° Chính phủ làm p nhằm vào
@@ -869,14 +785,11 @@ nên*.
 
 ### C' giải P' xd NN VN
 
-- Tiếp tục phát huy q\` làm chủ ° nd, xd Đảng tr sạch vững mạnh, xd hệ
-    thông ctrị theo hướng tinh gọn, hiểu quả gắn v đổi mới ktế xh &
-    hội nhập qtế .
+- Tiếp tục phát huy q\` làm chủ ° nd, xd Đảng tr sạch vững mạnh, xd hệ thông ctrị theo hướng tinh gọn, hiểu quả gắn v đổi mới ktế xh & hội nhập qtế .
 
 - Nâng cao hiểu biết ° nd về q\` làm chủ ° nd tr quá trình xd đn.
 
-- Thực hiện tốt công tác cán bộ, làm sáng tỏ c' vđề giữa mqh giữa dchủ
-    & kỉ luật, kỉ cương
+- Thực hiện tốt công tác cán bộ, làm sáng tỏ c' vđề giữa mqh giữa dchủ & kỉ luật, kỉ cương
 
 - Coi trọng đúng mực việc pt c' hình thức dchủ trực tiếp.
 
@@ -898,8 +811,7 @@ chú trọng vđề kiểm soát q\` lực NN.
 
   - Ng chỉ rõ: \"dân ghét c' ông chủ tịch, c' ông ủy viên vì cái tật
         ngông nghênh, cậy thếm cậy q\`. Nh ông này ko hiểu nv & chính
-        sách ° Việt Minh, nên khi nắm đc chút q\` lực tr tay vẫn hay
-        lạm dụng\".
+        sách ° Việt Minh, nên khi nắm đc chút q\` lực tr tay vẫn hay lạm dụng\".
 
 ⇒ Để đảm bảo tất cả ∀ q\` lực thuộc về nd cần p kiểm soát q\` lực NN.
 
@@ -912,8 +824,7 @@ chú trọng vđề kiểm soát q\` lực NN.
 
   - Để kiểm soát q\` lực NN có kq tốt, theo HCM cần có 2 đk là việc
         kiểm soát p có hệ thống & ng đi kiểm soát p là n\~ ng có uy
-        tín. Ng còn nêu rõ 2 cách kiểm soát là từ trên xuống & từ dưới
-        lên.
+        tín. Ng còn nêu rõ 2 cách kiểm soát là từ trên xuống & từ dưới lên.
 
   - Vđề kiểm soát q\` lực NN dựa trên cách thức tổ chức bộ máy NN &
         việc phân công phân nhiệm giữa c' cq thực thi q\` lực NN bước
@@ -950,25 +861,19 @@ ko gần gũi qchúng.
 
 - C' biện P' chống tiêu cực tr NN:
 
-  - Nâng cao trình độ dchủ tr xh, thực hành dchủ rộng rãi, phát huy
-        q\` làm chủ ° nd.
+  - Nâng cao trình độ dchủ tr xh, thực hành dchủ rộng rãi, phát huy q\` làm chủ ° nd.
 
-  - P' luật ° NN, kỉ luật ° Đảng p nghiêm minh. Công tác kiểm tra
-        cán bộ p thường xuyên.
+  - P' luật ° NN, kỉ luật ° Đảng p nghiêm minh. Công tác kiểm tra cán bộ p thường xuyên.
 
-  - Phạt nghiêm minh, nghiêm khắc, đúng ng đúng tôi là cần thiết.
-        Cần coi trọng gd, lấy gd, cảm hóa làm chủ yếu.
+  - Phạt nghiêm minh, nghiêm khắc, đúng ng đúng tôi là cần thiết. Cần coi trọng gd, lấy gd, cảm hóa làm chủ yếu.
 
-  - Cán bộ đi trc làm gương, cán bộ giữ chức vụ càng cao thì trách
-        nhiệm nêu gương càng lớn.
+  - Cán bộ đi trc làm gương, cán bộ giữ chức vụ càng cao thì trách nhiệm nêu gương càng lớn.
 
-  - Huy động sm ° CN y nc vào cuộc chiến chống lại tiêu cực tr c.ng,
-        tr bộ máy NN & tr xh.
+  - Huy động sm ° CN y nc vào cuộc chiến chống lại tiêu cực tr c.ng, tr bộ máy NN & tr xh.
 
 ### Thực trạng tr xd NN h.nay
 
-- Tham nhũng ở VN là 1 vấn nạn hết sức phổ biến tr c' cq, bộ máy NN.
-    (VD: Ông Đinh La Thăng,\...)
+- Tham nhũng ở VN là 1 vấn nạn hết sức phổ biến tr c' cq, bộ máy NN. (VD: Ông Đinh La Thăng,\...)
 
 - Vấn nạn quan liêu, lãng phí đc báo đài đưa tin rất n\`.
 
@@ -978,71 +883,55 @@ ko gần gũi qchúng.
 
 - Nâng cao vtrò ° Đảng tr việc phòng chống c' tiêu cực tr NN.
 
-- Cần kiên quyết chống 3 thứ giặc ngoại xâm: Đặc q\`, đặc lợi; Tham ô,
-    lãng phí, quan liêu; dung túng, chia rẽ, kiêu ngạo.
+- Cần kiên quyết chống 3 thứ giặc ngoại xâm: Đặc q\`, đặc lợi; Tham ô, lãng phí, quan liêu; dung túng, chia rẽ, kiêu ngạo.
 
-- Tăng cường xd & hoàn thiện luật P': Ko có vùng cấm, đồng bộ chặt
-    chẽ,\...Tăng cường tính nghiêm minh ° P' luật, đi đôi v đẩy mạnh
-    gd đđ.
+- Tăng cường xd & hoàn thiện luật P': Ko có vùng cấm, đồng bộ chặt chẽ,\...Tăng cường tính nghiêm minh ° P' luật, đi đôi v đẩy mạnh gd đđ.
 
-- Ng dân p tích cực tgia phát hiện, tố giác c' cq, tổ chức có tiêu
-    cực.
+- Ng dân p tích cực tgia phát hiện, tố giác c' cq, tổ chức có tiêu cực.
 
 - Đảng thường xuyên kiểm tra, phát hiện & xử lý c' cq vi phạm.
 
-- Về công tác cán bộ thì cần p chú ý đến đời sống vật chất t.thần ° c'
-    cán bộ đảng viên, xử lý nghiêm minh c' trường hợp tham ô, lộng
-    q\`.
+- Về công tác cán bộ thì cần p chú ý đến đời sống vật chất t.thần ° c' cán bộ đảng viên, xử lý nghiêm minh c' trường hợp tham ô, lộng q\`.
 
 ## 11\. Ptích TTHCM về vtrò đại đkết dt tr sn cm? Vtrò ° sv tr việc xd khối đại đkết dt ở VN?
 
 ### TTHCM về vtrò ° đại đkết dt tr sn cm
 
-- Đai đkết dt là vđề có ý nghĩa chiến lược, quyết định thành công °
-    cm.
+- Đai đkết dt là vđề có ý nghĩa chiến lược, quyết định thành công ° cm.
 
-  - Đại đkết dt là chiến lược tập hợp ∀ LL nhằm hthành & pt sm to lớn °
-        toàn dân tr cm.
+  - Đại đkết dt là chiến lược tập hợp ∀ LL nhằm hthành & pt sm to lớn ° toàn dân tr cm.
 
   - Tr TTHCM, đại đkết dt ko p là sách lược hay thủ đoạn ctrị mà chính
         là chiến lược lâu dài, nhất quán ° cm VN. Đây chính là vđề mang
-        tính sống còn ° dt VN nên chiến lược đc duy trì cả tr cm dt dchủ
-        nd & cm XHCN.
+        tính sống còn ° dt VN nên chiến lược đc duy trì cả tr cm dt dchủ nd & cm XHCN.
 
   - HCM kđịnh: Tr thời đại mới, cm muốn thành công p xd đc khối đại đkết
-        dt. Do đó, TT đại đkết dt là 1 TT cơ bản, nhất quán & xuyên suốt
-        tiến trình cm VN.
+        dt. Do đó, TT đại đkết dt là 1 TT cơ bản, nhất quán & xuyên suốt tiến trình cm VN.
 
-  - Từ thực tiễn xd khối đại đkết dt, HCM đã khái quát thành n\` luận
-        điểm mang tính chân lý về vtrò & sm ° khối đại đkết dt:
+  - Từ thực tiễn xd khối đại đkết dt, HCM đã khái quát thành n\` luận điểm mang tính chân lý về vtrò & sm ° khối đại đkết dt:
 
     - \"Đkết là sm ° cta\"
 
     - \"Đkết là 1 LL vô địch ° cta để khắc phục khó khăn, giành lấy tlợi\"
 
-⇒ Ng đã đi đến kết luận: \"Đkết, đkết, đại đkết/ /Thành công, thành
-công, đại thành công\".
+⇒ Ng đã đi đến kết luận: \"Đkết, đkết, đại đkết/ /Thành công, thành công, đại thành công\".
 
 - Đại đkết toàn dt là 1 mtiêu, nv hàng đầu ° cm VN.
 
   - Đkết để đtr cho t'nhất & độc lập ° TQ, đkết để xd nc nhà.
 
-  - Đv HCM, đại đkết dt ko chỉ là khẩu hiệu chiến lược mà còn là
-        mtiêu lâu dài ° cm.
+  - Đv HCM, đại đkết dt ko chỉ là khẩu hiệu chiến lược mà còn là mtiêu lâu dài ° cm.
 
   - Đảng là LL lđạo cm VN nên tất yếu đại đkết dt p đc xác định là
-        nv hàng đầu ° Đảng & nv này p đc nhất quán tr ∀ lĩnh vực:
-        \"Đkết toàn dân, phụng sự TQ\".
+        nv hàng đầu ° Đảng & nv này p đc nhất quán tr ∀ lĩnh vực: \"Đkết toàn dân, phụng sự TQ\".
 
   - Cm là sn ° qchúng, do qchúng & vì qchúng. Đại đkết là y cầu khác
-        quan ° sn cm, là đòi hỏi khách quan ° qchúng nd tr cuộc đtr vì
-        lợi ích chính mình.
+        quan ° sn cm, là đòi hỏi khách quan ° qchúng nd tr cuộc đtr vì lợi ích chính mình.
 
   - Đảng p có sứ mệnh thức tỉnh, tập hợp, hướng dẫn qchúng, chuyển
         n\~ nhu cầu, n\~ đòi hỏi khách quan, tự phát ° qchúng thành
         n\~ đòi hỏi tự giác, thành hiện thực có tổ chức tr khối đại
-        đkết, tạo sm cho cuộc đtr vì độc lập ° dt, tự do cho nd & hạnh
-        phúc cho c.ng.
+        đkết, tạo sm cho cuộc đtr vì độc lập ° dt, tự do cho nd & hạnh phúc cho c.ng.
 
   - Bác nói về mục đích ° Đảng Lao động VN: "Đkết toàn dân, bvệ TQ"
 
@@ -1052,17 +941,13 @@ công, đại thành công\".
     quân ta, v t.thần \"chống dịch như chống giặc\", đã có n\~ nỗ lực
     to lớn & đạt đc kq bước đầu tr kiểm soát, đẩy lùi dịch bệnh.
 
-- Khối đại đkết dt đã góp phần xd lên 1 đn có vị thế tr đối ngoại trên
-    thế giới.
+- Khối đại đkết dt đã góp phần xd lên 1 đn có vị thế tr đối ngoại trên thế giới.
 
 - Bên cạnh đó, còn có 1 số hạn chế:
 
-  - Sm đại đkết toàn dt chưa đc phát huy đầy đủ, có lúc, có nơi chưa
-        phát huy đc vtrò, sm ° nd.
+  - Sm đại đkết toàn dt chưa đc phát huy đầy đủ, có lúc, có nơi chưa phát huy đc vtrò, sm ° nd.
 
-  - Hđ ° Mặt trận & c' đoàn thể nd c' cấp có lúc, có nơi chưa sâu
-        sát; còn có biểu hiện hành chính hóa, chưa thiết thực, hiệu
-        quả.
+  - Hđ ° Mặt trận & c' đoàn thể nd c' cấp có lúc, có nơi chưa sâu sát; còn có biểu hiện hành chính hóa, chưa thiết thực, hiệu quả.
 
 ### Vtrò ° sv tr việc xd khối đại đkết dt ở VN h.nay
 
@@ -1078,12 +963,9 @@ công, đại thành công\".
 
 ### Hiểu biết ° sv tr việc xd khối đại đkết
 
-- 1 bộ phận ko nhỏ sv ko nhận ra đc tầm qtr ° việc xd khối đại đkết
-    dt. 1 vài trường hợp còn tgia tiếp tay cho sự chia rẽ khối đại
-    đkết dt do c' thế lực thù địch tiến hành.
+- 1 bộ phận ko nhỏ sv ko nhận ra đc tầm qtr ° việc xd khối đại đkết dt. 1 vài trường hợp còn tgia tiếp tay cho sự chia rẽ khối đại đkết dt do c' thế lực thù địch tiến hành.
 
-- Bên cạnh đó, rất n\` sv nhận thức đc tầm qtr ° khối đại đkết dt, từ
-    đó họ tích cực tgia c' ptrào xd khối đại đkết dt.
+- Bên cạnh đó, rất n\` sv nhận thức đc tầm qtr ° khối đại đkết dt, từ đó họ tích cực tgia c' ptrào xd khối đại đkết dt.
 
 ## 12\. Ptích TTHCM về LL ° khối đại đkết dt? Vận dụng TT vào việc tập hợp sm ° nd tr việc xd CNXH ở VN?
 
@@ -1093,18 +975,15 @@ công, đại thành công\".
 
   - Vtrò ° nd :
 
-    - "tr bầu trời ko có gì quý = nd. Tr thế giới ko gì mạnh = LL đkết °
-            nd".
+    - "tr bầu trời ko có gì quý = nd. Tr thế giới ko gì mạnh = LL đkết ° nd".
 
-    - "dân chúng đồng long, việc gì cx làm đc. dân chúng ko ủng hộ, việc
-            gì cx ko làm nên"
+    - "dân chúng đồng long, việc gì cx làm đc. dân chúng ko ủng hộ, việc gì cx ko làm nên"
 
   - Đại đkết toàn dân là gì?
 
     - Tập hợp ∀ ng dân vào 1 cuộc đtr chung
 
-    - Xd khối đại đkết toàn dân p đứng trên lập trường gc công nhân, giải
-            quyết tốt mqh giữa gc & dt để tập hợp LL.
+    - Xd khối đại đkết toàn dân p đứng trên lập trường gc công nhân, giải quyết tốt mqh giữa gc & dt để tập hợp LL.
 
 - Chủ thể ° khối đại đkết dt:
 
@@ -1117,8 +996,7 @@ công, đại thành công\".
         tập hợp LL, ko bỏ sót LL nào miễn là họ có lòng trung thành &
         sẵn sàng phục vụ TQ, ko phản bội lại q\` lợi ° nd.
 
-⇒ TT ° HCM đã định hướng cho việc xd khối đại đkết toàn dt tr suốt tiến
-trình cm VN, từ cm dchủ nd đến cm XHCN.
+⇒ TT ° HCM đã định hướng cho việc xd khối đại đkết toàn dt tr suốt tiến trình cm VN, từ cm dchủ nd đến cm XHCN.
 
 - Nền tảng ° khối đại đkết dt
 
@@ -1137,8 +1015,7 @@ trình cm VN, từ cm dchủ nd đến cm XHCN.
 
   - P kế thừa tr.thống y nc, nhân nghĩa, đkết ° dt
 
-  - P có tấm lòng khoan dung độ lượng v c.ng, p xoá bỏ thành kiến &
-        thật thà v nhau.
+  - P có tấm lòng khoan dung độ lượng v c.ng, p xoá bỏ thành kiến & thật thà v nhau.
 
   - P có lòng tin ở nd
 
@@ -1146,12 +1023,9 @@ trình cm VN, từ cm dchủ nd đến cm XHCN.
 
 ### Vận dụng TT này vào việc tập hợp sm ° nd tr việc xd CNXH ở VN h.nay
 
-- Tr gđ tình hình dịch bệnh đang leo thang h.nay thì sự đkết giữa c'
-    LL tr khối đại đkết dt là cơ sở cho việc thành bại ° công cuộc
-    phòng chống dịch.
+- Tr gđ tình hình dịch bệnh đang leo thang h.nay thì sự đkết giữa c' LL tr khối đại đkết dt là cơ sở cho việc thành bại ° công cuộc phòng chống dịch.
 
-- Tr gđ h.nay, đảng p t'nhất đkết để tạo ra 1 sự tin tưởng ° nd, từ đó
-    góp phần tạo nên n\~ sự tlợi cho đn.
+- Tr gđ h.nay, đảng p t'nhất đkết để tạo ra 1 sự tin tưởng ° nd, từ đó góp phần tạo nên n\~ sự tlợi cho đn.
 
 - C' cấp ủy cần tiếp tục nâng cao nhận thức về vị trí, vtrò & tầm qtr
     TTHCM về đại đkết toàn dt. Đại đkết là sn ° cả dt, ° cả hệ thống
@@ -1175,33 +1049,25 @@ trình cm VN, từ cm dchủ nd đến cm XHCN.
     pt vh xh; tr đó, mỗi ng, mỗi gia đình cố gắng phấn đấu làm giàu
     cho mình, cho cộng đồng.
 
-- Nắm bắt kịp thời để phản ánh tâm tư, nguyện vọng ° c' tầng lớp nd &
-    nỗ lực chăm lo lợi ích thiết thực, chính đáng, hợp P' ° c' gc, c'
-    tầng lớp nd.
+- Nắm bắt kịp thời để phản ánh tâm tư, nguyện vọng ° c' tầng lớp nd & nỗ lực chăm lo lợi ích thiết thực, chính đáng, hợp P' ° c' gc, c' tầng lớp nd.
 
 ## 13\. Ptích qđiểm ° HCM về vtrò ° vh. Liên hệ vtrò ° vh v sự pt bền vững ° VN h.nay
 
 ### Khái niệm vh
 
-- là sản phẩm ° c.ng, gắn liền v c.ng & mtiêu cao nhất là phục vụ đời
-    sống c.ng.
+- là sản phẩm ° c.ng, gắn liền v c.ng & mtiêu cao nhất là phục vụ đời sống c.ng.
 
-- Vh là toàn bộ n\~ gt vật chất & t.thần do loài ng stạo ra v phương
-    thức sd chúng, nhằm đáp ứng lý lẽ sinh tồn.
+- Vh là toàn bộ n\~ gt vật chất & t.thần do loài ng stạo ra v phương thức sd chúng, nhằm đáp ứng lý lẽ sinh tồn.
 
-- Vh là sự tổng hợp ° ∀ phương thức sinh hoạt cùng v biểu hiện ° nó mà
-    loài ng đã sản sinh ra nhằm thích ứng n\~ nhu cầu đời sống & đòi
-    hỏi ° sự sinh tồn.
+- Vh là sự tổng hợp ° ∀ phương thức sinh hoạt cùng v biểu hiện ° nó mà loài ng đã sản sinh ra nhằm thích ứng n\~ nhu cầu đời sống & đòi hỏi ° sự sinh tồn.
 
 ### Qđiểm ° HCM về vh - HCM có 4 cách tiếp cận chủ yếu về vh
 
 - Tiếp cận theo nghĩa rộng, tổng hợp ∀ phương thức sinh hoạt ° c.ng.
 
-- Tiếp cận theo nghĩa hẹp là đời sống t.thần ° xh, thuộc kiến trúc
-    thượng tầng
+- Tiếp cận theo nghĩa hẹp là đời sống t.thần ° xh, thuộc kiến trúc thượng tầng
 
-- Tiếp cận theo nghĩa hẹp hơn là bàn đến c' trường học, số ng đi học,
-    xóa nạn mù chữ, biết đọc biết viết.
+- Tiếp cận theo nghĩa hẹp hơn là bàn đến c' trường học, số ng đi học, xóa nạn mù chữ, biết đọc biết viết.
 
 - Tiếp cận theo \"phương thức sd công cụ sinh hoạt\"
 
@@ -1226,19 +1092,13 @@ có cơm ăn áo mặc, ai cx đc học hành; 1 xh mà đời sống vật ch�
         động lực cộng đồng & cá nhân; nội lực & ngoại lực. Tiếp cận theo
         TTHCM, động lực có thể nhận thức theo c' phương diện sau:
 
-    - Vh ctrị là 1 tr n\~ động lực có nghĩa soi đường cho quốc dân đi, lđạo
-quốc dân giành độc lập, tự cường, tự chủ.
+    - Vh ctrị là 1 tr n\~ động lực có nghĩa soi đường cho quốc dân đi, lđạo quốc dân giành độc lập, tự cường, tự chủ.
 
-    - Vh văn nghệ góp phần nâng cao lòng y nc, lý tưởng, tình cảm cm, sự
-lạc quan, ý chí, quyết tâm & niềm tin vào tlợi cuối cùng ° cm.
+    - Vh văn nghệ góp phần nâng cao lòng y nc, lý tưởng, tình cảm cm, sự lạc quan, ý chí, quyết tâm & niềm tin vào tlợi cuối cùng ° cm.
 
-    - Vh gd diệt giặc dốt, xóa mù chữ, giúp c.ng hiểu biết q luật pt ° xh.
-Vh gd đào tạo c.ng mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sn
-cm.
+    - Vh gd diệt giặc dốt, xóa mù chữ, giúp c.ng hiểu biết q luật pt ° xh. Vh gd đào tạo c.ng mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sn cm.
 
-    - Vh đđ, lối sống nâng cao phẩm giá, phong cách lành mạnh cho c.ng,
-hướng c.ng đến c' gt chân, thiện, mĩ. Vh đđ là 1 động lực lớn thúc đẩy
-cho cm pt.
+    - Vh đđ, lối sống nâng cao phẩm giá, phong cách lành mạnh cho c.ng, hướng c.ng đến c' gt chân, thiện, mĩ. Vh đđ là 1 động lực lớn thúc đẩy cho cm pt.
 
     - Vh P' luật đảm bảo dchủ, trật tự, kỉ cương, phép nc.
 
@@ -1264,12 +1124,9 @@ cho cm pt.
 
 - Vh phục vụ qchúng nd
 
-  - ∀ hđ vh p trở về v cuộc sống thực tại ° qchúng, phản ánh đc TT &
-        khác vọng ° qchúng.
+  - ∀ hđ vh p trở về v cuộc sống thực tại ° qchúng, phản ánh đc TT & khác vọng ° qchúng.
 
-  - Vh phục vụ cho qchúng nd là p miêu tả cho hay, cho thật, cho
-        hùng hồn; p trả lời đc c' câu hỏi: Viết cho ai? Mục đích
-        viết,\....
+  - Vh phục vụ cho qchúng nd là p miêu tả cho hay, cho thật, cho hùng hồn; p trả lời đc c' câu hỏi: Viết cho ai? Mục đích viết,\....
 
   - Chiến sĩ vh p hiểu & đánh giá cho đúng qchúng. Qchúng sáng tác
         rất hay. Họ cung cấp cho n\~ nhà hđ vh n\~ tư liệu quý. &
@@ -1292,14 +1149,11 @@ cho cm pt.
 
 - Vh là động lực thúc đẩy ktế pt. Tác nhân vh tr ktế làm cho ktế trở
     thành vh ktế. Ktế đc bảo đảm bởi vh sẽ là ktế pt, cả trình độ &
-    chất lượng, theo tính nhân văn, vì c.ng, phục vụ lợi ích ° c.ng, °
-    cộng đồng.
+    chất lượng, theo tính nhân văn, vì c.ng, phục vụ lợi ích ° c.ng, ° cộng đồng.
 
-- Vh thúc đẩy vtrò ° ctrị. Ctrị đc bảo đảm bởi vh, vh chứ ko đơn thuần
-    là học vấn, sẽ là 1 nền ctrị nhân văn, vì c.ng.
+- Vh thúc đẩy vtrò ° ctrị. Ctrị đc bảo đảm bởi vh, vh chứ ko đơn thuần là học vấn, sẽ là 1 nền ctrị nhân văn, vì c.ng.
 
-- Vh gd góp phần nâng cao trình độ vh ° nd, giúp cho đn pt, sánh vai v
-    c' cường quốc năm châu.
+- Vh gd góp phần nâng cao trình độ vh ° nd, giúp cho đn pt, sánh vai v c' cường quốc năm châu.
 
 ## 14\. Trình bày qđiểm ° HCM về c' chuẩn mực đđ cm. Liên hệ v quá trình xd đđ cm theo tấm gương HCM
 
@@ -1314,8 +1168,7 @@ cho cm pt.
         mẹ\". Phẩm chất đã đc HCM sd v nội dung rộng lớn:\"Trung v nc,
         hiếu v dân\", đã tạo nên 1 cuộc cm sâu sắc tr lĩnh vực đđ.
 
-  - TT \"Trung v nc hiếu v dân\" ° HCM ko n\~ kế thừa gt tr.thống y
-        nc ° dt mà còn vượt qua n\~ hạn chế ° tr.thống đó.
+  - TT \"Trung v nc hiếu v dân\" ° HCM ko n\~ kế thừa gt tr.thống y nc ° dt mà còn vượt qua n\~ hạn chế ° tr.thống đó.
 
   - HCM cho rằng, trung v nc p gắn liền hiếu v dân. Trung v nc là p
         y nc, tuyệt đối trung thành v TQ, suốt đời phấn đấu cho Đảng,
@@ -1354,18 +1207,13 @@ cho cm pt.
         hết sức công =, ko chút thiên tư, thiên vị, công tâm, luôn đặt
         lợi ích ° dt lên trên hết, trc hết.
 
-  - HCM coi cần, kiệm, liêm, chính là 4 đức tính cơ bản ° c.ng,
-        giống như 4 mùa ° trời, 4 phương ° đất; \"Thiếu 1 đức tính,
-        thì ko thành ng\".
+  - HCM coi cần, kiệm, liêm, chính là 4 đức tính cơ bản ° c.ng, giống như 4 mùa ° trời, 4 phương ° đất; \"Thiếu 1 đức tính, thì ko thành ng\".
 
 - Thương y c.ng, sống có tình nghĩa
 
-  - Kế thừa tr.thống nhân nghĩa ° dt, kết hợp v CN nhân đạo cộng
-        sản, HCM đã xác định tình y thương c.ng là 1 tr n\~ phẩm chất
-        đđ cao đẹp nhất
+  - Kế thừa tr.thống nhân nghĩa ° dt, kết hợp v CN nhân đạo cộng sản, HCM đã xác định tình y thương c.ng là 1 tr n\~ phẩm chất đđ cao đẹp nhất
 
-  - Tình y thương là tình cảm nhân ái, sâu sắc, rộng lớn, trc hết là
-        cho n\~ ng nghèo khổ, n\~ ng bị mất q\`, n\~ ng bị áp bức, bị
+  - Tình y thương là tình cảm nhân ái, sâu sắc, rộng lớn, trc hết là cho n\~ ng nghèo khổ, n\~ ng bị mất q\`, n\~ ng bị áp bức, bị
         bóc lột, bị phân biệt màu da, dt.
 
   - Tình y thương c.ng, y đồng loại, y đn mình là TT lớn, là mtiêu
@@ -1390,8 +1238,7 @@ cho cm pt.
 
   - HCM nêu cao t.thần độc lập, tự chủ, tự lực, tự cường, nh luôn
         kêu gọi p đkết, hợp tác qtế, đồng thời p ra sức ủng hộ & giúp
-        đỡ c' cuộc đtr ° nd c' nc về hòa bình, độc lập dt, dchủ & tiến
-        bộ xh.
+        đỡ c' cuộc đtr ° nd c' nc về hòa bình, độc lập dt, dchủ & tiến bộ xh.
 
 ### Liên hệ v quá trình xd đđ cm theo tấm gương HCM
 
@@ -1407,29 +1254,21 @@ cho cm pt.
     tr nền ktế thị trường đang làm phương hại đến nền đđ cm.
 
 - Nâng cao đđ tr tình hình mới, Đảng & nd ta quán triệt TT đđ HCM, ra
-    sức bồi dưỡng c' phẩm chất đđ, vận dụng c' ngtắc xd đđ mà Ng đã
-    nêu ra.
+    sức bồi dưỡng c' phẩm chất đđ, vận dụng c' ngtắc xd đđ mà Ng đã nêu ra.
 
 ## 15\. Ptích qđiểm HCM về vtrò ° c.ng. Liên hệ v vđề xd c.ng tr sn đổi mới ở VN h.nay
 
 ### Quan niệm ° HCM về c.ng
 
-- Theo HCM, c.ng là 1 chỉnh thể, t'nhất về trí lực, tâm lực, thể lực,
-    đa dạng bởi c' mqh giữa cá nhân & c' mqh xh.
+- Theo HCM, c.ng là 1 chỉnh thể, t'nhất về trí lực, tâm lực, thể lực, đa dạng bởi c' mqh giữa cá nhân & c' mqh xh.
 
-- HCM cho ta biết thêm n\~ yếu tố sinh vật ° c.ng. Theo ng, \"dân dĩ
-    thực vị thiên\";\"dân chỉ biết rõ gt ° độc lập dt khi dân đc ăn
-    no, mặc đủ\"
+- HCM cho ta biết thêm n\~ yếu tố sinh vật ° c.ng. Theo ng, \"dân dĩ thực vị thiên\";\"dân chỉ biết rõ gt ° độc lập dt khi dân đc ăn no, mặc đủ\"
 
-- Xa v c.ng trừu tượng, phi nguồn gốc lsử, HCM nhìn nhận c.ng lsử cụ
-    thể về giới tính, lứa tuổi, nghề nghiệp, chức vụ, vị trí, \... tr
-    từng gđ lsử cụ thể.
+- Xa v c.ng trừu tượng, phi nguồn gốc lsử, HCM nhìn nhận c.ng lsử cụ thể về giới tính, lứa tuổi, nghề nghiệp, chức vụ, vị trí, \... tr từng gđ lsử cụ thể.
 
 ### Qđiểm ° HCM về vtrò ° c.ng
 
-- C.ng là mtiêu ° cm. C.ng là chiến lược số 1 tr n\~ TT & hành động °
-    HCM. Mtiêu này đc cụ thể hóa tr 3 gđ cm( gpdt - Xd chế độ dchủ
-    nd - Tiến dần lên CNXH) nhằm gpdt, gp xh, gp gc, gp c.ng.
+- C.ng là mtiêu ° cm. C.ng là chiến lược số 1 tr n\~ TT & hành động ° HCM. Mtiêu này đc cụ thể hóa tr 3 gđ cm (gpdt - Xd chế độ dchủ nd - Tiến dần lên CNXH) nhằm gpdt, gp xh, gp gc, gp c.ng.
 
   - Gp dt
 
@@ -1439,7 +1278,4 @@ cho cm pt.
 
   - Gp c.ng
 
-- C.ng là động lực ° cm. Theo HCM, c.ng là vốn quý nhất, động lực,
-    nhân tố quyết định thành công ° sn cm. Cm là sn qchúng, qchúng nd
-    là ng stạo chân chính ra lsử thông qua hđ căn bản nhất như lao
-    động sản xuất, đtr ctrị-xh, stạo ra c' gt vh.
+- C.ng là động lực ° cm. Theo HCM, c.ng là vốn quý nhất, động lực, nhân tố quyết định thành công ° sn cm. Cm là sn qchúng, qchúng nd là ng stạo chân chính ra lsử thông qua hđ căn bản nhất như lao động sản xuất, đtr ctrị-xh, stạo ra c' gt vh.
